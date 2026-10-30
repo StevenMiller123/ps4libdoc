@@ -131,6 +131,12 @@
               "name": "sceAppContentGetEntitlementKey"
             },
             {
+              "id": 15476208602571894956,
+              "hex_id": "D6C689BA422470AC",
+              "encoded_id": "1saJukIkcKw",
+              "name": "sceAppContentGetGameTrialsFlag"
+            },
+            {
               "id": 17262286133819237551,
               "hex_id": "EF8FF5C7797264AF",
               "encoded_id": "74-1x3lyZK8",
