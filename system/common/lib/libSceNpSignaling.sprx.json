@@ -940,6 +940,12 @@
               "name": "_ZN3sce2np3ipc14service_client13PollEventFlagEijmjPm"
             },
             {
+              "id": 17950040957719883993,
+              "hex_id": "F91B5B25CC9B30D9",
+              "encoded_id": "+RtbJcybMNk",
+              "name": "_ZN3sce2np3ipc14service_client13WaitEventFlagEijmjPmj"
+            },
+            {
               "id": 2282315972224275203,
               "hex_id": "1FAC6A48D5A0D303",
               "encoded_id": "H6xqSNWg0wM",
@@ -962,12 +968,6 @@
               "hex_id": "3037331F74B113D4",
               "encoded_id": "MDczH3SxE9Q",
               "name": "sceNpManagerIntGetUserIdByNpId"
-            },
-            {
-              "id": 17950040957719883993,
-              "hex_id": "F91B5B25CC9B30D9",
-              "encoded_id": "+RtbJcybMNk",
-              "name": null
             }
           ]
         }

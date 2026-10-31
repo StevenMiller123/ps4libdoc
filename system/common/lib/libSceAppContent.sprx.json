@@ -137,6 +137,12 @@
               "name": "sceAppContentGetGameTrialsFlag"
             },
             {
+              "id": 14684442068467633047,
+              "hex_id": "CBC99E427FD0CB97",
+              "encoded_id": "y8meQn-Qy5c",
+              "name": "sceAppContentGetPlayableStatus"
+            },
+            {
               "id": 17262286133819237551,
               "hex_id": "EF8FF5C7797264AF",
               "encoded_id": "74-1x3lyZK8",
@@ -219,7 +225,20 @@
               "id": 14238753643103541722,
               "hex_id": "C59A36FF8D7C59DA",
               "encoded_id": "xZo2-418Wdo",
-              "name": null
+              "name": "sceAppContentCheckBundleLicenseOnDisc"
+            }
+          ]
+        },
+        {
+          "name": "libSceAppContentGameTrials",
+          "version": 1,
+          "is_export": true,
+          "symbols": [
+            {
+              "id": 15476208602571894956,
+              "hex_id": "D6C689BA422470AC",
+              "encoded_id": "1saJukIkcKw",
+              "name": "sceAppContentGetGameTrialsFlag"
             }
           ]
         },

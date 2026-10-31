@@ -348,6 +348,12 @@
               "name": "d2i_RSA_PUBKEY"
             },
             {
+              "id": 2459449305056833772,
+              "hex_id": "2221B81CBAFE70EC",
+              "encoded_id": "IiG4HLr+cOw",
+              "name": "d2i_SSL_SESSION"
+            },
+            {
               "id": 10209604945267625071,
               "hex_id": "8DAFCD9ADBBF8C6F",
               "encoded_id": "ja-Nmtu-jG8",
@@ -364,6 +370,12 @@
               "hex_id": "99553717D65082EB",
               "encoded_id": "mVU3F9ZQgus",
               "name": "DES_set_key"
+            },
+            {
+              "id": 2850210723714147890,
+              "hex_id": "278DFB8D59FDA632",
+              "encoded_id": "J437jVn9pjI",
+              "name": "DES_set_key_unchecked"
             },
             {
               "id": 2010243949648733186,
@@ -976,6 +988,18 @@
               "hex_id": "59466242766FB6D7",
               "encoded_id": "WUZiQnZvttc",
               "name": "i2a_ASN1_OBJECT"
+            },
+            {
+              "id": 16547532719204215127,
+              "hex_id": "E5A4A555E5522957",
+              "encoded_id": "5aSlVeVSKVc",
+              "name": "i2d_SSL_SESSION"
+            },
+            {
+              "id": 8891335408680885084,
+              "hex_id": "7B645E722546DB5C",
+              "encoded_id": "e2ReciVG21w",
+              "name": "i2d_X509"
             },
             {
               "id": 2484119856741200865,
@@ -1614,6 +1638,12 @@
               "name": "SSL_CTX_set_quiet_shutdown"
             },
             {
+              "id": 293755153963506800,
+              "hex_id": "0413A0C192EF5C70",
+              "encoded_id": "BBOgwZLvXHA",
+              "name": "SSL_CTX_set_timeout"
+            },
+            {
               "id": 6485916872569528438,
               "hex_id": "5A029B0820382076",
               "encoded_id": "WgKbCCA4IHY",
@@ -1800,6 +1830,24 @@
               "name": "SSL_SESSION_free"
             },
             {
+              "id": 15030490608014325292,
+              "hex_id": "D0970792B289F62C",
+              "encoded_id": "0JcHkrKJ9iw",
+              "name": "SSL_SESSION_get_timeout"
+            },
+            {
+              "id": 6660226965389006198,
+              "hex_id": "5C6DE1233B7D5576",
+              "encoded_id": "XG3hIzt9VXY",
+              "name": "SSL_SESSION_set_time"
+            },
+            {
+              "id": 10892294692779801607,
+              "hex_id": "9729345030033C07",
+              "encoded_id": "lyk0UDADPAc",
+              "name": "SSL_set_alpn_protos"
+            },
+            {
               "id": 12498019840146310093,
               "hex_id": "AD71E2D3C7B483CD",
               "encoded_id": "rXHi08e0g80",
@@ -1822,6 +1870,12 @@
               "hex_id": "54BBCA2352509ED9",
               "encoded_id": "VLvKI1JQntk",
               "name": "SSL_set_fd"
+            },
+            {
+              "id": 11016964557686983998,
+              "hex_id": "98E41EE514004D3E",
+              "encoded_id": "mOQe5RQATT4",
+              "name": "SSL_set_info_callback"
             },
             {
               "id": 4022429199799982616,

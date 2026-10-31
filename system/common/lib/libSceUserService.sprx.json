@@ -606,6 +606,12 @@
               "name": "sceUserServiceGetIsRemotePlayAllowed"
             },
             {
+              "id": 2476993751835476882,
+              "hex_id": "22600CB191040392",
+              "encoded_id": "ImAMsZEEA5I",
+              "name": "sceUserServiceGetIsSpartacusEnabled"
+            },
+            {
               "id": 13544367334203801605,
               "hex_id": "BBF742544E9F4005",
               "encoded_id": "u-dCVE6fQAU",

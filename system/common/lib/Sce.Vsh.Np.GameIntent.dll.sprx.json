@@ -60,7 +60,7 @@
               "hex_id": "0558C7DD4B657890",
               "encoded_id": "BVjH3UtleJA",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_GameIntentjit_got"
             },
             {
               "id": 470705594586430362,
@@ -91,7 +91,7 @@
               "hex_id": "338D9300DAD40337",
               "encoded_id": "M42TANrUAzc",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_GameIntentjit_code_start"
             },
             {
               "id": 5132153854505081964,
@@ -164,7 +164,7 @@
               "hex_id": "7389109ACEEE6992",
               "encoded_id": "c4kQms7uaZI",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_GameIntentunwind_info"
             },
             {
               "id": 8351659355280784597,
@@ -177,14 +177,14 @@
               "hex_id": "7A2854875232D1E6",
               "encoded_id": "eihUh1Iy0eY",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_GameIntentmethod_addresses"
             },
             {
               "id": 9151207084585500783,
               "hex_id": "7EFF9E5BB6C1C06F",
               "encoded_id": "fv+eW7bBwG8",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_GameIntentunbox_trampolines"
             },
             {
               "id": 9284567794638115524,
@@ -239,7 +239,7 @@
               "hex_id": "9CAFC7BB7B7E3CA1",
               "encoded_id": "nK-Hu3t+PKE",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_GameIntentplt_end"
             },
             {
               "id": 11396084997032014870,
@@ -282,7 +282,7 @@
               "hex_id": "BE107B7338F733BC",
               "encoded_id": "vhB7czj3M7w",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_GameIntentunbox_trampoline_addresses"
             },
             {
               "id": 14334661012862104133,
@@ -295,7 +295,7 @@
               "hex_id": "C9FF566B4361CD78",
               "encoded_id": "yf9Wa0NhzXg",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_GameIntentplt"
             },
             {
               "id": 14688635536678848783,
@@ -344,7 +344,7 @@
               "hex_id": "E674DB3407A08432",
               "encoded_id": "5nTbNAeghDI",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_GameIntentunbox_trampolines_end"
             },
             {
               "id": 16638726483506299536,
@@ -387,7 +387,7 @@
               "hex_id": "F8B15B37566A2D5D",
               "encoded_id": "+LFbN1ZqLV0",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_GameIntentjit_code_end"
             },
             {
               "id": 18054127073738804971,

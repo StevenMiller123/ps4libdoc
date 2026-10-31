@@ -121,6 +121,12 @@
               "name": "sceLncUtilAddLocalProcess"
             },
             {
+              "id": 16100512765387653088,
+              "hex_id": "DF70830E5292BFE0",
+              "encoded_id": "33CDDlKSv+A",
+              "name": "sceLncUtilAddLocalProcess2"
+            },
+            {
               "id": 13497944547467774408,
               "hex_id": "BB52550CFDBCC9C8",
               "encoded_id": "u1JVDP28ycg",
@@ -293,6 +299,12 @@
               "hex_id": "C06A1B492AC1338B",
               "encoded_id": "wGobSSrBM4s",
               "name": "sceLncUtilGetLocalProcessStatusList"
+            },
+            {
+              "id": 13446997652744761596,
+              "hex_id": "BA9D551EB35CF0FC",
+              "encoded_id": "up1VHrNc8Pw",
+              "name": "sceLncUtilGetLocalProcessStatusList2"
             },
             {
               "id": 2095831145234373565,
@@ -1166,6 +1178,12 @@
               "name": "sceShellCoreUtilGetSocialScreenStatus"
             },
             {
+              "id": 13166716807914727494,
+              "hex_id": "B6B9932D31EC2846",
+              "encoded_id": "trmTLTHsKEY",
+              "name": "sceShellCoreUtilGetSpartacusEnabledForKratos"
+            },
+            {
               "id": 6376691224167977981,
               "hex_id": "587E8EE21AE213FD",
               "encoded_id": "WH6O4hriE-0",
@@ -1482,6 +1500,12 @@
               "hex_id": "22574073B12AE7F7",
               "encoded_id": "IldAc7Eq5-c",
               "name": "sceShellCoreUtilNotifyYouTubeAccountLinkStatusChanged"
+            },
+            {
+              "id": 2187805656204439592,
+              "hex_id": "1E5CA5A71FA7F028",
+              "encoded_id": "Hlylpx+n8Cg",
+              "name": "sceShellCoreUtilNpDebugSpecialNotification"
             },
             {
               "id": 5623652111882338599,
@@ -1850,12 +1874,6 @@
               "name": "sceShellCoreUtilWriteSmrHddDummyData"
             },
             {
-              "id": 2187805656204439592,
-              "hex_id": "1E5CA5A71FA7F028",
-              "encoded_id": "Hlylpx+n8Cg",
-              "name": null
-            },
-            {
               "id": 7873246866014700358,
               "hex_id": "6D43644F75C38346",
               "encoded_id": "bUNkT3XDg0Y",
@@ -1891,6 +1909,12 @@
               "hex_id": "D1C97C4AEC28B0F4",
               "encoded_id": "0cl8SuwosPQ",
               "name": "sceSystemServiceAddLocalProcess"
+            },
+            {
+              "id": 12158675452131359397,
+              "hex_id": "A8BC4AE77F8D3AA5",
+              "encoded_id": "qLxK53+NOqU",
+              "name": "sceSystemServiceAddLocalProcess2"
             },
             {
               "id": 8240299257844935725,
@@ -2053,6 +2077,12 @@
               "hex_id": "64D22E263A9DB602",
               "encoded_id": "ZNIuJjqdtgI",
               "name": "sceSystemServiceGetLocalProcessStatusList"
+            },
+            {
+              "id": 14197947966740647148,
+              "hex_id": "C5093E73A90E4CEC",
+              "encoded_id": "xQk+c6kOTOw",
+              "name": "sceSystemServiceGetLocalProcessStatusList2"
             },
             {
               "id": 5819255093094397189,
@@ -2751,6 +2781,19 @@
           ]
         },
         {
+          "name": "libSceSystemServiceStorageManagement",
+          "version": 1,
+          "is_export": true,
+          "symbols": [
+            {
+              "id": 3738744998093036076,
+              "hex_id": "33E2B0C45D1A9A2C",
+              "encoded_id": "M+KwxF0amiw",
+              "name": "sceSystemServiceShowStorageManagement"
+            }
+          ]
+        },
+        {
           "name": "libSceSystemServiceStore",
           "version": 1,
           "is_export": true,
@@ -2893,7 +2936,7 @@
               "id": 13279246639905766863,
               "hex_id": "B8495C766861FDCF",
               "encoded_id": "uElcdmhh-c8",
-              "name": null
+              "name": "sceSystemServicePushEventToWebApp"
             }
           ]
         },
@@ -2919,13 +2962,13 @@
               "id": 7718285295997599077,
               "hex_id": "6B1CDB955F0EBD65",
               "encoded_id": "axzblV8OvWU",
-              "name": null
+              "name": "sceSystemServiceDisableYouTubeAccountLinkNotification"
             },
             {
               "id": 14654300175395154416,
               "hex_id": "CB5E885E225F69F0",
               "encoded_id": "y16IXiJfafA",
-              "name": null
+              "name": "sceSystemServiceEnableYouTubeAccountLinkNotification"
             }
           ]
         },

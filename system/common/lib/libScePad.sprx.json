@@ -107,6 +107,12 @@
               "name": "scePadGetControllerInformation"
             },
             {
+              "id": 11787088239154834442,
+              "hex_id": "A394264D87022C0A",
+              "encoded_id": "o5QmTYcCLAo",
+              "name": "scePadGetCounterfeitState"
+            },
+            {
               "id": 5957852744068143371,
               "hex_id": "52AE8B813244990B",
               "encoded_id": "Uq6LgTJEmQs",
@@ -209,6 +215,12 @@
               "name": "scePadIsBlasterConnected"
             },
             {
+              "id": 5901145687975812261,
+              "hex_id": "51E514BCD3A05CA5",
+              "encoded_id": "UeUUvNOgXKU",
+              "name": "scePadIsChargingCableConnected"
+            },
+            {
               "id": 10970978443758543412,
               "hex_id": "9840BEC492B22234",
               "encoded_id": "mEC+xJKyIjQ",
@@ -231,6 +243,12 @@
               "hex_id": "F5EE7AB8B824E72D",
               "encoded_id": "9e56uLgk5y0",
               "name": "scePadIsMoveReproductionModel"
+            },
+            {
+              "id": 8945729504450565291,
+              "hex_id": "7C259D967981D4AB",
+              "encoded_id": "fCWdlnmB1Ks",
+              "name": "scePadIsRemoteController"
             },
             {
               "id": 11841338905706845668,
@@ -345,6 +363,12 @@
               "hex_id": "8DB02A02F2C43F80",
               "encoded_id": "jbAqAvLEP4A",
               "name": "scePadResetOrientationForTracker"
+            },
+            {
+              "id": 2934544616309119517,
+              "hex_id": "28B998C7D8A3DA1D",
+              "encoded_id": "KLmYx9ij2h0",
+              "name": "scePadSetAngularVelocityBiasCorrectionState"
             },
             {
               "id": 12650090198048316389,
@@ -539,9 +563,9 @@
               "name": "scePadVirtualDeviceInsertData"
             },
             {
-              "id": 2934544616309119517,
-              "hex_id": "28B998C7D8A3DA1D",
-              "encoded_id": "KLmYx9ij2h0",
+              "id": 1367346776666454029,
+              "hex_id": "12F9CAA61BFAB80D",
+              "encoded_id": "EvnKphv6uA0",
               "name": null
             },
             {
@@ -551,15 +575,15 @@
               "name": null
             },
             {
-              "id": 5901145687975812261,
-              "hex_id": "51E514BCD3A05CA5",
-              "encoded_id": "UeUUvNOgXKU",
-              "name": null
-            },
-            {
               "id": 9928505878548161091,
               "hex_id": "89C9237E393DA243",
               "encoded_id": "ickjfjk9okM",
+              "name": null
+            },
+            {
+              "id": 11530424162159621343,
+              "hex_id": "A0044BAF471AF4DF",
+              "encoded_id": "oARLr0ca9N8",
               "name": null
             },
             {

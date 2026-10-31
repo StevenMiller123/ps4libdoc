@@ -22,6 +22,12 @@
               "name": "sceKernelCheckDipsw"
             },
             {
+              "id": 3220815990105394871,
+              "hex_id": "2CB2A31411214EB7",
+              "encoded_id": "LLKjFBEhTrc",
+              "name": "sceKernelGetDiableBinaryVersionCheckValue"
+            },
+            {
               "id": 6587569380390124774,
               "hex_id": "5B6BBF72F364BCE6",
               "encoded_id": "W2u-cvNkvOY",
@@ -68,12 +74,6 @@
               "hex_id": "F39DD1F115ED3CC6",
               "encoded_id": "853R8RXtPMY",
               "name": "sceKernelWriteDipswData"
-            },
-            {
-              "id": 3220815990105394871,
-              "hex_id": "2CB2A31411214EB7",
-              "encoded_id": "LLKjFBEhTrc",
-              "name": null
             }
           ]
         }

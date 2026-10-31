@@ -23,6 +23,12 @@
               "name": "sceDbgKeyboardClose"
             },
             {
+              "id": 13728932358048888120,
+              "hex_id": "BE86F73D9ADEB538",
+              "encoded_id": "vob3PZretTg",
+              "name": "sceDbgKeyboardGetHandle"
+            },
+            {
               "id": 16959611228474769694,
               "hex_id": "EB5CA48E71F7011E",
               "encoded_id": "61ykjnH3AR4",
@@ -84,6 +90,12 @@
               "name": "sceKeyboardDeviceOpen"
             },
             {
+              "id": 4979060019067551797,
+              "hex_id": "45192CB507DF0035",
+              "encoded_id": "RRkstQffADU",
+              "name": "sceKeyboardDisconnectAll"
+            },
+            {
               "id": 1014676330888980429,
               "hex_id": "0E14DABF38A267CD",
               "encoded_id": "DhTavziiZ80",
@@ -106,6 +118,12 @@
               "hex_id": "F389AF10914C60AE",
               "encoded_id": "84mvEJFMYK4",
               "name": "sceKeyboardGetDeviceInfo"
+            },
+            {
+              "id": 12820915134349364751,
+              "hex_id": "B1ED0A62F652CE0F",
+              "encoded_id": "se0KYvZSzg8",
+              "name": "sceKeyboardGetHandle"
             },
             {
               "id": 14478872423860122912,
@@ -156,9 +174,27 @@
               "name": "sceKeyboardSetProcessPrivilege"
             },
             {
+              "id": 3062901614770378623,
+              "hex_id": "2A819CCA6A5BD77F",
+              "encoded_id": "KoGcympb138",
+              "name": null
+            },
+            {
+              "id": 4998975881915699284,
+              "hex_id": "455FEE1432549054",
+              "encoded_id": "RV-uFDJUkFQ",
+              "name": null
+            },
+            {
               "id": 10934356882183129907,
               "hex_id": "97BEA3A6D1DF8B33",
               "encoded_id": "l76jptHfizM",
+              "name": null
+            },
+            {
+              "id": 13607679816081111784,
+              "hex_id": "BCD830B236C47AE8",
+              "encoded_id": "vNgwsjbEeug",
               "name": null
             }
           ]

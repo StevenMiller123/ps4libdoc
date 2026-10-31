@@ -2320,6 +2320,38 @@
       ]
     },
     {
+      "name": "libSceNpCommon",
+      "version_major": 1,
+      "version_minor": 1,
+      "libraries": [
+        {
+          "name": "libSceNpCommon",
+          "version": 1,
+          "is_export": false,
+          "symbols": [
+            {
+              "id": 10594077837572962490,
+              "hex_id": "9305B9A9D75FF8BA",
+              "encoded_id": "kwW5qddf+Lo",
+              "name": "_sceNpHeapMalloc"
+            },
+            {
+              "id": 8499930904010722892,
+              "hex_id": "75F5D21F64EC8E4C",
+              "encoded_id": "dfXSH2Tsjkw",
+              "name": "sceNpMemoryHeapDestroy"
+            },
+            {
+              "id": 10491332980741462422,
+              "hex_id": "9198B3C2B16F5996",
+              "encoded_id": "kZizwrFvWZY",
+              "name": "sceNpMemoryHeapInit"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "libSceNpManager",
       "version_major": 1,
       "version_minor": 1,
@@ -2815,6 +2847,12 @@
           "version": 1,
           "is_export": false,
           "symbols": [
+            {
+              "id": 2476993751835476882,
+              "hex_id": "22600CB191040392",
+              "encoded_id": "ImAMsZEEA5I",
+              "name": "sceUserServiceGetIsSpartacusEnabled"
+            },
             {
               "id": 16449556013523540822,
               "hex_id": "E448900A72F61B56",

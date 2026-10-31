@@ -60,6 +60,12 @@
               "name": "sceNpAuthGetAuthorizationCodeV3"
             },
             {
+              "id": 2321029788374667806,
+              "hex_id": "2035F44B912C121E",
+              "encoded_id": "IDX0S5EsEh4",
+              "name": "sceNpAuthGetAuthorizedAppCode"
+            },
+            {
               "id": 13375830731023588907,
               "hex_id": "B9A07F2E826A1E2B",
               "encoded_id": "uaB-LoJqHis",

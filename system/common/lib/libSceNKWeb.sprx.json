@@ -197,6 +197,12 @@
               "name": "munmap"
             },
             {
+              "id": 14496828648600009552,
+              "hex_id": "C92F14D931827B50",
+              "encoded_id": "yS8U2TGCe1A",
+              "name": "nanosleep"
+            },
+            {
               "id": 14042412343999313768,
               "hex_id": "C2E0ABA081A3B768",
               "encoded_id": "wuCroIGjt2g",
@@ -1174,6 +1180,12 @@
               "hex_id": "F720D63311057495",
               "encoded_id": "9yDWMxEFdJU",
               "name": "strrchr"
+            },
+            {
+              "id": 18322114895061778409,
+              "hex_id": "FE453A6C1E0CFFE9",
+              "encoded_id": "-kU6bB4M-+k",
+              "name": "strspn"
             },
             {
               "id": 11058995181982134520,

@@ -268,6 +268,12 @@
               "name": "FT_Done_Library"
             },
             {
+              "id": 8428233744746901422,
+              "hex_id": "74F719EFA7996FAE",
+              "encoded_id": "dPcZ76eZb64",
+              "name": "FT_Face_GetCharVariantIndex"
+            },
+            {
               "id": 8967559963719512562,
               "hex_id": "7C732C465B8431F2",
               "encoded_id": "fHMsRluEMfI",

@@ -59,6 +59,12 @@
               "name": "sceMouseGetDeviceInfo"
             },
             {
+              "id": 4606993581565351784,
+              "hex_id": "3FEF5440E7B51768",
+              "encoded_id": "P+9UQOe1F2g",
+              "name": "sceMouseGetHandle"
+            },
+            {
               "id": 4813556743749539765,
               "hex_id": "42CD305AE96097B5",
               "encoded_id": "Qs0wWulgl7U",

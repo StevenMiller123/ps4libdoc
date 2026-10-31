@@ -110,6 +110,12 @@
               "hex_id": "68A6BA61F04A66CE",
               "encoded_id": "aKa6YfBKZs4",
               "name": "sceSysmoduleUnloadModuleInternalWithArg"
+            },
+            {
+              "id": 8194517681129992673,
+              "hex_id": "71B8C66A216931E1",
+              "encoded_id": "cbjGaiFpMeE",
+              "name": null
             }
           ]
         }
@@ -149,6 +155,12 @@
               "hex_id": "9D91E4FA5A6AC154",
               "encoded_id": "nZHk+lpqwVQ",
               "name": "__sys_dynlib_load_prx"
+            },
+            {
+              "id": 1804081845321027060,
+              "hex_id": "190962E140174DF4",
+              "encoded_id": "GQli4UAXTfQ",
+              "name": "__sys_dynlib_unload_prx"
             },
             {
               "id": 11272445419737494858,

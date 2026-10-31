@@ -307,6 +307,12 @@
               "name": "sceSslSetMinSslVersion"
             },
             {
+              "id": 763188013152255861,
+              "hex_id": "0A97637454C6BF75",
+              "encoded_id": "CpdjdFTGv3U",
+              "name": "sceSslSetServerName"
+            },
+            {
               "id": 7829090915320353508,
               "hex_id": "6CA684B509E852E4",
               "encoded_id": "bKaEtQnoUuQ",
@@ -400,6 +406,12 @@
               "name": "fstat"
             },
             {
+              "id": 9952394493739172371,
+              "hex_id": "8A1E020FDFE08213",
+              "encoded_id": "ih4CD9-gghM",
+              "name": "ftruncate"
+            },
+            {
               "id": 9944825931330880253,
               "hex_id": "8A031E7E9E1202FD",
               "encoded_id": "igMefp4SAv0",
@@ -430,6 +442,12 @@
               "name": "gettimeofday"
             },
             {
+              "id": 10524404290282422044,
+              "hex_id": "920E31F0FAE17F1C",
+              "encoded_id": "kg4x8Prhfxw",
+              "name": "getuid"
+            },
+            {
               "id": 4465068684319409537,
               "hex_id": "3DF71C4FBA944581",
               "encoded_id": "PfccT7qURYE",
@@ -440,6 +458,12 @@
               "hex_id": "C2E0ABA081A3B768",
               "encoded_id": "wuCroIGjt2g",
               "name": "open"
+            },
+            {
+              "id": 1336251812889512446,
+              "hex_id": "128B51F1ADC049FE",
+              "encoded_id": "EotR8a3ASf4",
+              "name": "pthread_self"
             },
             {
               "id": 189259624450299762,
@@ -949,6 +973,12 @@
               "hex_id": "3AF6F675224E02E1",
               "encoded_id": "Ovb2dSJOAuE",
               "name": "strcmp"
+            },
+            {
+              "id": 12340279458482817643,
+              "hex_id": "AB417AC92FEB0A6B",
+              "encoded_id": "q0F6yS-rCms",
+              "name": "strcspn"
             },
             {
               "id": 4937838664264317477,

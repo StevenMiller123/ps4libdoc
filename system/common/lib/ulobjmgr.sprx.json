@@ -19,18 +19,18 @@
               "id": 319116225007466076,
               "hex_id": "046DBA8411A2365C",
               "encoded_id": "BG26hBGiNlw",
-              "name": null
-            },
-            {
-              "id": 2134513644819973454,
-              "hex_id": "1D9F50D9CFB8054E",
-              "encoded_id": "HZ9Q2c+4BU4",
-              "name": null
+              "name": "_sceUlobjmgrRegisterObject"
             },
             {
               "id": 5361533695362307319,
               "hex_id": "4A67FE7D435B94F7",
               "encoded_id": "Smf+fUNblPc",
+              "name": "_sceUlobjmgrUnregisterObject"
+            },
+            {
+              "id": 2134513644819973454,
+              "hex_id": "1D9F50D9CFB8054E",
+              "encoded_id": "HZ9Q2c+4BU4",
               "name": null
             },
             {

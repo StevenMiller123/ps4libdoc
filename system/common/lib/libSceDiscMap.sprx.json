@@ -16,6 +16,12 @@
           "is_export": true,
           "symbols": [
             {
+              "id": 16711677989840982520,
+              "hex_id": "E7EBCE96E92F91F8",
+              "encoded_id": "5+vOlukvkfg",
+              "name": "sceDiscMapCountBlocksOnHDD"
+            },
+            {
               "id": 9105538063872836491,
               "hex_id": "7E5D5EA039F0438B",
               "encoded_id": "fl1eoDnwQ4s",
@@ -28,21 +34,15 @@
               "name": "sceDiscMapIsRequestOnHDD"
             },
             {
-              "id": 8977943428052713082,
-              "hex_id": "7C980FFB0AA27E7A",
-              "encoded_id": "fJgP+wqifno",
-              "name": null
-            },
-            {
               "id": 9980694407049762281,
               "hex_id": "8A828CAEE7EDD5E9",
               "encoded_id": "ioKMruft1ek",
-              "name": null
+              "name": "sceDiscMapRequestToBlockRange"
             },
             {
-              "id": 16711677989840982520,
-              "hex_id": "E7EBCE96E92F91F8",
-              "encoded_id": "5+vOlukvkfg",
+              "id": 8977943428052713082,
+              "hex_id": "7C980FFB0AA27E7A",
+              "encoded_id": "fJgP+wqifno",
               "name": null
             }
           ]

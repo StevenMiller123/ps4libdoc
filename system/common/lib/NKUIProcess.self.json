@@ -1057,6 +1057,12 @@
               "name": "strnlen"
             },
             {
+              "id": 6807999456434619740,
+              "hex_id": "5E7ADF6F6FD6855C",
+              "encoded_id": "Xnrfb2-WhVw",
+              "name": "strnstr"
+            },
+            {
               "id": 11058995181982134520,
               "hex_id": "9979718662CD30F8",
               "encoded_id": "mXlxhmLNMPg",
@@ -1067,6 +1073,12 @@
               "hex_id": "18CA6FC4F156F76E",
               "encoded_id": "GMpvxPFW924",
               "name": "vprintf"
+            },
+            {
+              "id": 11768244278249635346,
+              "hex_id": "A35133D1FB17BE12",
+              "encoded_id": "o1Ez0fsXvhI",
+              "name": null
             }
           ]
         }

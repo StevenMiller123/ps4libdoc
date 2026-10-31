@@ -362,6 +362,12 @@
               "hex_id": "9A46B0774340F6DB",
               "encoded_id": "mkawd0NA9ts",
               "name": "sysconf"
+            },
+            {
+              "id": 3607587661212454224,
+              "hex_id": "3210B9DD32A68D50",
+              "encoded_id": "MhC53TKmjVA",
+              "name": "sysctlbyname"
             }
           ]
         }

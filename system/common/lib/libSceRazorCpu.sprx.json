@@ -202,10 +202,46 @@
               "name": "sceRazorCpuUnTagBuffer"
             },
             {
+              "id": 17773294667745415165,
+              "hex_id": "F6A76D55574F4FFD",
+              "encoded_id": "9qdtVVdPT-0",
+              "name": "sceRazorCpuUserSignalPost"
+            },
+            {
+              "id": 8118158856296372665,
+              "hex_id": "70A97E77CBBC99B9",
+              "encoded_id": "cKl+d8u8mbk",
+              "name": "sceRazorCpuUserSignalPostEx"
+            },
+            {
+              "id": 17234614013713267682,
+              "hex_id": "EF2DA621F0593BE2",
+              "encoded_id": "7y2mIfBZO+I",
+              "name": "sceRazorCpuUserSignalWaitBegin"
+            },
+            {
+              "id": 10677823531970433136,
+              "hex_id": "942F3FEDC5679070",
+              "encoded_id": "lC8-7cVnkHA",
+              "name": "sceRazorCpuUserSignalWaitBeginEx"
+            },
+            {
+              "id": 811788185877543875,
+              "hex_id": "0B440D0DD416FBC3",
+              "encoded_id": "C0QNDdQW+8M",
+              "name": "sceRazorCpuUserSignalWaitEnd"
+            },
+            {
               "id": 8726281448430692775,
               "hex_id": "7919FABE57CAE9A7",
               "encoded_id": "eRn6vlfK6ac",
               "name": "sceRazorCpuWorkloadRunBegin"
+            },
+            {
+              "id": 772467343265676435,
+              "hex_id": "0AB85AF4BBF0BC93",
+              "encoded_id": "Crha9LvwvJM",
+              "name": "sceRazorCpuWorkloadRunBeginEx"
             },
             {
               "id": 12344842692684364619,
@@ -226,22 +262,10 @@
               "name": "sceRazorCpuWriteBookmark"
             },
             {
-              "id": 811788185877543875,
-              "hex_id": "0B440D0DD416FBC3",
-              "encoded_id": "C0QNDdQW+8M",
-              "name": null
-            },
-            {
-              "id": 17234614013713267682,
-              "hex_id": "EF2DA621F0593BE2",
-              "encoded_id": "7y2mIfBZO+I",
-              "name": null
-            },
-            {
-              "id": 17773294667745415165,
-              "hex_id": "F6A76D55574F4FFD",
-              "encoded_id": "9qdtVVdPT-0",
-              "name": null
+              "id": 229076642443358042,
+              "hex_id": "032DD7FE1B2CEF5A",
+              "encoded_id": "Ay3X-hss71o",
+              "name": "sceRazorCpuWriteBookmarkEnd"
             }
           ]
         }

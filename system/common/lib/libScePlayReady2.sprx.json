@@ -31,6 +31,12 @@
               "name": "scePlayReadyApiIsStarted"
             },
             {
+              "id": 4282416232264153766,
+              "hex_id": "3B6E32DFC078BAA6",
+              "encoded_id": "O24y38B4uqY",
+              "name": "scePlayReadyApiSetInitParamFlags"
+            },
+            {
               "id": 18308173268656713382,
               "hex_id": "FE13B2964495EEA6",
               "encoded_id": "-hOylkSV7qY",
@@ -347,12 +353,6 @@
               "hex_id": "A3F678AC2852B121",
               "encoded_id": "o-Z4rChSsSE",
               "name": "scePlayReadyStoreCleanup"
-            },
-            {
-              "id": 4282416232264153766,
-              "hex_id": "3B6E32DFC078BAA6",
-              "encoded_id": "O24y38B4uqY",
-              "name": null
             }
           ]
         }

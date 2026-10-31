@@ -427,6 +427,12 @@
               "name": "scePthreadMutexLock"
             },
             {
+              "id": 2425127758634696308,
+              "hex_id": "21A7C8D8FC5C3E74",
+              "encoded_id": "IafI2PxcPnQ",
+              "name": "scePthreadMutexTimedlock"
+            },
+            {
               "id": 13446083479687599585,
               "hex_id": "BA9A15AF330715E1",
               "encoded_id": "upoVrzMHFeE",
@@ -473,6 +479,12 @@
               "hex_id": "3B1F62D1CECBE70D",
               "encoded_id": "Ox9i0c7L5w0",
               "name": "scePthreadRwlockRdlock"
+            },
+            {
+              "id": 9870581162844524211,
+              "hex_id": "88FB594562028EB3",
+              "encoded_id": "iPtZRWICjrM",
+              "name": "scePthreadRwlockTimedrdlock"
             },
             {
               "id": 17924181641358915289,
@@ -617,6 +629,12 @@
               "name": "MvpHttpSetRedirectCb"
             },
             {
+              "id": 1861209576944700608,
+              "hex_id": "19D4583FC6580CC0",
+              "encoded_id": "GdRYP8ZYDMA",
+              "name": "sceAvPlayerStreamingRegisterVprinf"
+            },
+            {
               "id": 3573285635663251371,
               "hex_id": "3196DC5A82B6C7AB",
               "encoded_id": "MZbcWoK2x6s",
@@ -735,12 +753,6 @@
               "hex_id": "6EE0472862E962BE",
               "encoded_id": "buBHKGLpYr4",
               "name": "sceTsStopFileStreaming"
-            },
-            {
-              "id": 1861209576944700608,
-              "hex_id": "19D4583FC6580CC0",
-              "encoded_id": "GdRYP8ZYDMA",
-              "name": null
             }
           ]
         }

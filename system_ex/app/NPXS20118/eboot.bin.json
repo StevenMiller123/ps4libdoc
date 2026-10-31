@@ -87,6 +87,12 @@
               "name": null
             },
             {
+              "id": 5729543741229575090,
+              "hex_id": "4F836DAD1D0D2BB2",
+              "encoded_id": "T4NtrR0NK7I",
+              "name": null
+            },
+            {
               "id": 5984632052957812587,
               "hex_id": "530DAF24EBF7976B",
               "encoded_id": "Uw2vJOv3l2s",
@@ -1986,6 +1992,12 @@
               "name": "sceLibcMspaceMalloc"
             },
             {
+              "id": 12050319648545436194,
+              "hex_id": "A73B55E00175F222",
+              "encoded_id": "pztV4AF18iI",
+              "name": "sincosf"
+            },
+            {
               "id": 8698495712930102709,
               "hex_id": "78B743C3A974FDB5",
               "encoded_id": "eLdDw6l0-bU",
@@ -2068,6 +2080,12 @@
               "hex_id": "9979718662CD30F8",
               "encoded_id": "mXlxhmLNMPg",
               "name": "strtol"
+            },
+            {
+              "id": 13887207423665328580,
+              "hex_id": "C0B9459301BD51C4",
+              "encoded_id": "wLlFkwG9UcQ",
+              "name": "time"
             },
             {
               "id": 4856426907243348013,
@@ -2391,6 +2409,12 @@
           "version": 1,
           "is_export": false,
           "symbols": [
+            {
+              "id": 2684055025872228112,
+              "hex_id": "253FADD346B74F10",
+              "encoded_id": "JT+t00a3TxA",
+              "name": "sceNpGetAccountCountryA"
+            },
             {
               "id": 12104052782473426742,
               "hex_id": "A7FA3BE029E83736",
@@ -2779,6 +2803,18 @@
               "hex_id": "8233FDFCA433A149",
               "encoded_id": "gjP9-KQzoUk",
               "name": "scePadGetControllerInformation"
+            },
+            {
+              "id": 9527403155871250956,
+              "hex_id": "843822B121A43A0C",
+              "encoded_id": "hDgisSGkOgw",
+              "name": "scePadGetDeviceId"
+            },
+            {
+              "id": 16335886036063294883,
+              "hex_id": "E2B4B9CC6ED115A3",
+              "encoded_id": "4rS5zG7RFaM",
+              "name": "scePadGetDeviceInfo"
             },
             {
               "id": 9727042620305942787,

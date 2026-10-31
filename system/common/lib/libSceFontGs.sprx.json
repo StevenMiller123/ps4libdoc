@@ -18,6 +18,18 @@
           "is_export": true,
           "symbols": [
             {
+              "id": 15978590418232728469,
+              "hex_id": "DDBF5B53C238DB95",
+              "encoded_id": "3b9bU8I425U",
+              "name": "sceFontGraphicsGnmSurfaceInit"
+            },
+            {
+              "id": 5339114241228556817,
+              "hex_id": "4A18581D53A84A11",
+              "encoded_id": "ShhYHVOoShE",
+              "name": "sceFontSelectGraphicsGnm"
+            },
+            {
               "id": 904673413697310542,
               "hex_id": "0C8E0BAD352B0F4E",
               "encoded_id": "DI4LrTUrD04",
@@ -30,12 +42,6 @@
               "name": null
             },
             {
-              "id": 5339114241228556817,
-              "hex_id": "4A18581D53A84A11",
-              "encoded_id": "ShhYHVOoShE",
-              "name": null
-            },
-            {
               "id": 5962849070726529435,
               "hex_id": "52C04BA325EC419B",
               "encoded_id": "UsBLoyXsQZs",
@@ -45,12 +51,6 @@
               "id": 13423830988344837870,
               "hex_id": "BA4B0729512CC6EE",
               "encoded_id": "uksHKVEsxu4",
-              "name": null
-            },
-            {
-              "id": 15978590418232728469,
-              "hex_id": "DDBF5B53C238DB95",
-              "encoded_id": "3b9bU8I425U",
               "name": null
             }
           ]
@@ -170,22 +170,28 @@
           "is_export": false,
           "symbols": [
             {
-              "id": 9355386675559144914,
-              "hex_id": "81D5029D4D201DD2",
-              "encoded_id": "gdUCnU0gHdI",
-              "name": "sceFontRenderSurfaceInit"
-            },
-            {
               "id": 718650720978642964,
               "hex_id": "09F92905ED82A814",
               "encoded_id": "CfkpBe2CqBQ",
-              "name": null
+              "name": "sceFontGraphicsDrawupFillTextureImageObject"
             },
             {
               "id": 1494401907792025330,
               "hex_id": "14BD2E9E119C16F2",
               "encoded_id": "FL0unhGcFvI",
-              "name": null
+              "name": "sceFontGraphicsDrawupFillTexturePatternObject"
+            },
+            {
+              "id": 8976507689203608455,
+              "hex_id": "7C92F62F0A8B2B87",
+              "encoded_id": "fJL2LwqLK4c",
+              "name": "sceFontGraphicsReportError"
+            },
+            {
+              "id": 9355386675559144914,
+              "hex_id": "81D5029D4D201DD2",
+              "encoded_id": "gdUCnU0gHdI",
+              "name": "sceFontRenderSurfaceInit"
             }
           ]
         }
@@ -724,6 +730,12 @@
               "hex_id": "F6B01E00D4F6B721",
               "encoded_id": "9rAeANT2tyE",
               "name": "__cxa_guard_release"
+            },
+            {
+              "id": 1006747189132769736,
+              "hex_id": "0DF8AF3C0AE1B9C8",
+              "encoded_id": "DfivPArhucg",
+              "name": "memcmp"
             },
             {
               "id": 4860863683521237115,

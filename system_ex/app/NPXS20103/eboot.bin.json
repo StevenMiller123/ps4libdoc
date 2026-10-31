@@ -3907,6 +3907,12 @@
               "name": "sceShellCoreUtilGetSocialScreenStatus"
             },
             {
+              "id": 13166716807914727494,
+              "hex_id": "B6B9932D31EC2846",
+              "encoded_id": "trmTLTHsKEY",
+              "name": "sceShellCoreUtilGetSpartacusEnabledForKratos"
+            },
+            {
               "id": 6376691224167977981,
               "hex_id": "587E8EE21AE213FD",
               "encoded_id": "WH6O4hriE-0",
@@ -5146,6 +5152,12 @@
               "hex_id": "2E08B90387D0C077",
               "encoded_id": "Lgi5A4fQwHc",
               "name": "sceUserServiceGetIsRemotePlayAllowed"
+            },
+            {
+              "id": 2476993751835476882,
+              "hex_id": "22600CB191040392",
+              "encoded_id": "ImAMsZEEA5I",
+              "name": "sceUserServiceGetIsSpartacusEnabled"
             },
             {
               "id": 13544367334203801605,

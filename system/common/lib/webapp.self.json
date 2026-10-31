@@ -697,6 +697,12 @@
               "name": "_Stderr"
             },
             {
+              "id": 14868568335454751040,
+              "hex_id": "CE57C41FC166C940",
+              "encoded_id": "zlfEH8FmyUA",
+              "name": "_Stoul"
+            },
+            {
               "id": 11429767920620969329,
               "hex_id": "9E9EB15DC5C49D71",
               "encoded_id": "np6xXcXEnXE",
@@ -1720,6 +1726,18 @@
           "version": 1,
           "is_export": false,
           "symbols": [
+            {
+              "id": 12158675452131359397,
+              "hex_id": "A8BC4AE77F8D3AA5",
+              "encoded_id": "qLxK53+NOqU",
+              "name": "sceSystemServiceAddLocalProcess2"
+            },
+            {
+              "id": 13228375401750204497,
+              "hex_id": "B794A15748D61051",
+              "encoded_id": "t5ShV0jWEFE",
+              "name": "sceSystemServiceGetAppStatus"
+            },
             {
               "id": 12464339469358855603,
               "hex_id": "ACFA3AB55F03F5B3",

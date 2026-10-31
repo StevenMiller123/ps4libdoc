@@ -184,6 +184,12 @@
               "name": "sceKernelGetCompiledSdkVersion"
             },
             {
+              "id": 16185282098015116692,
+              "hex_id": "E09DAC5099AE1D94",
+              "encoded_id": "4J2sUJmuHZQ",
+              "name": "sceKernelGetProcessTime"
+            },
+            {
               "id": 15307142596818687567,
               "hex_id": "D46DE51751A0D64F",
               "encoded_id": "1G3lF1Gg1k8",
@@ -514,6 +520,12 @@
               "hex_id": "FFEED8383B6854B3",
               "encoded_id": "-+7YODtoVLM",
               "name": "sceSysUtilSendSystemNotificationParamInit"
+            },
+            {
+              "id": 18393084866225555381,
+              "hex_id": "FF415D3C2EFCC7B5",
+              "encoded_id": "-0FdPC78x7U",
+              "name": "sceSysUtilSendTrcCheckNotificationRequest"
             }
           ]
         }

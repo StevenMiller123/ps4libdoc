@@ -108,6 +108,12 @@
               "name": "scePlayGoSetInstallSpeed"
             },
             {
+              "id": 16729223556157279098,
+              "hex_id": "E82A243068DA0B7A",
+              "encoded_id": "6CokMGjaC3o",
+              "name": "scePlayGoSetInstallSpeed2"
+            },
+            {
               "id": 3353787079731000996,
               "hex_id": "2E8B0B9473A936A4",
               "encoded_id": "LosLlHOpNqQ",

@@ -112,6 +112,12 @@
               "name": "sceHttp2GetAllResponseHeaders"
             },
             {
+              "id": 737581207003790997,
+              "hex_id": "0A3C6A332C76FE95",
+              "encoded_id": "CjxqMyx2-pU",
+              "name": "sceHttp2GetAllTrailingHeaders"
+            },
+            {
               "id": 11237479252812890255,
               "hex_id": "9BF38BD77ABC008F",
               "encoded_id": "m-OL13q8AI8",
@@ -140,6 +146,12 @@
               "hex_id": "7A28FB533914A8AF",
               "encoded_id": "eij7UzkUqK8",
               "name": "sceHttp2GetCookieStats"
+            },
+            {
+              "id": 14521084965764652953,
+              "hex_id": "C98541D721AADF99",
+              "encoded_id": "yYVB1yGq35k",
+              "name": "sceHttp2GetMaxConcurrentRequest"
             },
             {
               "id": 11733302793467828989,
@@ -286,6 +298,12 @@
               "name": "sceHttp2SetPreSendCallback"
             },
             {
+              "id": 9098027278323746287,
+              "hex_id": "7E42AF9B314D05EF",
+              "encoded_id": "fkKvmzFNBe8",
+              "name": "sceHttp2SetProxyWithURL"
+            },
+            {
               "id": 10032831976056272782,
               "hex_id": "8B3BC786A803B78E",
               "encoded_id": "izvHhqgDt44",
@@ -302,6 +320,18 @@
               "hex_id": "1520053B38B41693",
               "encoded_id": "FSAFOzi0FpM",
               "name": "sceHttp2SetRequestContentLength"
+            },
+            {
+              "id": 7802381500382544077,
+              "hex_id": "6C47A0A2C46180CD",
+              "encoded_id": "bEegosRhgM0",
+              "name": "sceHttp2SetRequestNoContentLength"
+            },
+            {
+              "id": 14924767351025843165,
+              "hex_id": "CF1F6CD4B93E3BDD",
+              "encoded_id": "zx9s1Lk+O90",
+              "name": "sceHttp2SetRequestServerName"
             },
             {
               "id": 1857983302240829843,
@@ -326,6 +356,12 @@
               "hex_id": "62B597F8384F1D06",
               "encoded_id": "YrWX+DhPHQY",
               "name": "sceHttp2SetSslCallback"
+            },
+            {
+              "id": 11008373756513705075,
+              "hex_id": "98C5999B4FBB5C73",
+              "encoded_id": "mMWZm0+7XHM",
+              "name": "sceHttp2SetStripGZIPHeadersEnabled"
             },
             {
               "id": 6161822925183404109,
@@ -356,6 +392,66 @@
               "hex_id": "30EA7F01485D7E2F",
               "encoded_id": "MOp-AUhdfi8",
               "name": "sceHttp2WaitAsync"
+            },
+            {
+              "id": 13792349751642085244,
+              "hex_id": "BF6845062C92D77C",
+              "encoded_id": "v2hFBiyS13w",
+              "name": "sceHttp2WebSocketClose"
+            },
+            {
+              "id": 456689430988037237,
+              "hex_id": "06567C9E2AB79C75",
+              "encoded_id": "BlZ8niq3nHU",
+              "name": "sceHttp2WebSocketCloseAsync"
+            },
+            {
+              "id": 18396101153960747108,
+              "hex_id": "FF4C148865FBE064",
+              "encoded_id": "-0wUiGX74GQ",
+              "name": "sceHttp2WebSocketCreateRequest"
+            },
+            {
+              "id": 1103945562774680320,
+              "hex_id": "0F5200A3F08DB300",
+              "encoded_id": "D1IAo-CNswA",
+              "name": "sceHttp2WebSocketSendDataMessage"
+            },
+            {
+              "id": 10577253737622050237,
+              "hex_id": "92C9F43BD22295BD",
+              "encoded_id": "ksn0O9Iilb0",
+              "name": "sceHttp2WebSocketSendDataMessageAsync"
+            },
+            {
+              "id": 10169634143484384225,
+              "hex_id": "8D21CC5F5A1213E1",
+              "encoded_id": "jSHMX1oSE+E",
+              "name": "sceHttp2WebSocketSendTextMessage"
+            },
+            {
+              "id": 6452307414896644459,
+              "hex_id": "598B33687688916B",
+              "encoded_id": "WYszaHaIkWs",
+              "name": "sceHttp2WebSocketSendTextMessageAsync"
+            },
+            {
+              "id": 16209894234241216487,
+              "hex_id": "E0F51CEC1E99AFE7",
+              "encoded_id": "4PUc7B6Zr+c",
+              "name": "sceHttp2WebSocketSetCloseTimeout"
+            },
+            {
+              "id": 7058995760494034065,
+              "hex_id": "61F6973E773C3C91",
+              "encoded_id": "YfaXPnc8PJE",
+              "name": "sceHttp2WebSocketSetPingInterval"
+            },
+            {
+              "id": 18214031542806058558,
+              "hex_id": "FCC53D2FA4B7163E",
+              "encoded_id": "-MU9L6S3Fj4",
+              "name": "sceHttp2WebSocketSetPingTimeout"
             }
           ]
         }
@@ -419,6 +515,12 @@
               "hex_id": "47526F9FC6D2096F",
               "encoded_id": "R1Jvn8bSCW8",
               "name": "sceKernelDeleteSema"
+            },
+            {
+              "id": 6349717562011184837,
+              "hex_id": "581EBA7AFBBC6EC5",
+              "encoded_id": "WB66evu8bsU",
+              "name": "sceKernelGetCompiledSdkVersion"
             },
             {
               "id": 3674219662310620530,
@@ -603,6 +705,12 @@
           "is_export": false,
           "symbols": [
             {
+              "id": 12244979969905147232,
+              "hex_id": "A9EEE867EBF83D60",
+              "encoded_id": "qe7oZ+v4PWA",
+              "name": "sceHttpDeleteRequest"
+            },
+            {
               "id": 9580519404396350258,
               "hex_id": "84F4D7A376C80B32",
               "encoded_id": "hPTXo3bICzI",
@@ -675,6 +783,12 @@
               "hex_id": "437541C425E1507B",
               "encoded_id": "Q3VBxCXhUHs",
               "name": "memcpy"
+            },
+            {
+              "id": 17941924494238559728,
+              "hex_id": "F8FE854461F82DF0",
+              "encoded_id": "+P6FRGH4LfA",
+              "name": "memmove"
             },
             {
               "id": 17524849461551964383,
@@ -854,6 +968,12 @@
               "name": "sceNetEpollWait"
             },
             {
+              "id": 1978125390265831245,
+              "hex_id": "1B73B68FD7F9CF4D",
+              "encoded_id": "G3O2j9f5z00",
+              "name": "sceNetGetRandom"
+            },
+            {
               "id": 731662271272032511,
               "hex_id": "0A2762F58EB998FF",
               "encoded_id": "Cidi9Y65mP8",
@@ -878,6 +998,12 @@
               "name": "sceNetHtonl"
             },
             {
+              "id": 15862208765646385188,
+              "hex_id": "DC21E2D4AD70B024",
+              "encoded_id": "3CHi1K1wsCQ",
+              "name": "sceNetHtonll"
+            },
+            {
               "id": 9900062821886113728,
               "hex_id": "896416AF0892B7C0",
               "encoded_id": "iWQWrwiSt8A",
@@ -894,6 +1020,18 @@
               "hex_id": "F0A729E5DFEAD54A",
               "encoded_id": "8Kcp5d-q1Uo",
               "name": "sceNetInetPton"
+            },
+            {
+              "id": 13036462470535250147,
+              "hex_id": "B4EAD18BFBF700E3",
+              "encoded_id": "tOrRi-v3AOM",
+              "name": "sceNetNtohll"
+            },
+            {
+              "id": 5024871474074650700,
+              "hex_id": "45BBEDFB9636884C",
+              "encoded_id": "Rbvt+5Y2iEw",
+              "name": "sceNetNtohs"
             },
             {
               "id": 17799278366728926743,
@@ -1142,6 +1280,12 @@
               "hex_id": "4164B10737FA9408",
               "encoded_id": "QWSxBzf6lAg",
               "name": "sceSslSetMinSslVersion"
+            },
+            {
+              "id": 763188013152255861,
+              "hex_id": "0A97637454C6BF75",
+              "encoded_id": "CpdjdFTGv3U",
+              "name": "sceSslSetServerName"
             },
             {
               "id": 1407022395909860612,

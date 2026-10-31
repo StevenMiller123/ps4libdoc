@@ -191,6 +191,12 @@
               "name": "sceAudio3dPortOpen"
             },
             {
+              "id": 10617141089472997749,
+              "hex_id": "9357A991A03DE975",
+              "encoded_id": "k1epkaA96XU",
+              "name": "sceAudio3dPortOpenEx"
+            },
+            {
               "id": 6072366771256287638,
               "hex_id": "54456167DA9DE196",
               "encoded_id": "VEVhZ9qd4ZY",
@@ -672,6 +678,12 @@
               "hex_id": "85CB90803E775313",
               "encoded_id": "hcuQgD53UxM",
               "name": "printf"
+            },
+            {
+              "id": 6993289136798851207,
+              "hex_id": "610D276AFA7E6087",
+              "encoded_id": "YQ0navp+YIc",
+              "name": "puts"
             },
             {
               "id": 2291376565028949426,

@@ -11,9 +11,11 @@
     "libSceHttp2.prx",
     "libSceIpmi.prx",
     "libSceJson2.prx",
+    "libSceKeyboard.prx",
     "libSceLibcInternal.prx",
     "libSceLibreSsl.prx",
     "libSceMbus.prx",
+    "libSceMouse.prx",
     "libSceNet.prx",
     "libSceNetCtl.prx",
     "libSceNpCommon.prx",
@@ -1684,6 +1686,12 @@
               "name": "_ZN3sce4Json12MemAllocatorD2Ev"
             },
             {
+              "id": 12201257135325514384,
+              "hex_id": "A95392B834470A90",
+              "encoded_id": "qVOSuDRHCpA",
+              "name": "_ZN3sce4Json5Array5clearEv"
+            },
+            {
               "id": 17808046151008036347,
               "hex_id": "F722E39F8E98A5FB",
               "encoded_id": "9yLjn46Ypfs",
@@ -2048,6 +2056,50 @@
               "hex_id": "1141FE1264FFBFD1",
               "encoded_id": "EUH+EmT-v9E",
               "name": "_ZNK3sce4Json6String6lengthEv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "libSceKeyboard",
+      "version_major": 1,
+      "version_minor": 1,
+      "libraries": [
+        {
+          "name": "libSceKeyboard",
+          "version": 1,
+          "is_export": false,
+          "symbols": [
+            {
+              "id": 4979060019067551797,
+              "hex_id": "45192CB507DF0035",
+              "encoded_id": "RRkstQffADU",
+              "name": "sceKeyboardDisconnectAll"
+            },
+            {
+              "id": 13954214179087980941,
+              "hex_id": "C1A753DD0042198D",
+              "encoded_id": "wadT3QBCGY0",
+              "name": "sceKeyboardInit"
+            },
+            {
+              "id": 3062901614770378623,
+              "hex_id": "2A819CCA6A5BD77F",
+              "encoded_id": "KoGcympb138",
+              "name": null
+            },
+            {
+              "id": 4998975881915699284,
+              "hex_id": "455FEE1432549054",
+              "encoded_id": "RV-uFDJUkFQ",
+              "name": null
+            },
+            {
+              "id": 13607679816081111784,
+              "hex_id": "BCD830B236C47AE8",
+              "encoded_id": "vNgwsjbEeug",
+              "name": null
             }
           ]
         }
@@ -3445,6 +3497,26 @@
       ]
     },
     {
+      "name": "libSceMouse",
+      "version_major": 1,
+      "version_minor": 1,
+      "libraries": [
+        {
+          "name": "libSceMouse",
+          "version": 1,
+          "is_export": false,
+          "symbols": [
+            {
+              "id": 4813556743749539765,
+              "hex_id": "42CD305AE96097B5",
+              "encoded_id": "Qs0wWulgl7U",
+              "name": "sceMouseInit"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "libSceNet",
       "version_major": 1,
       "version_minor": 1,
@@ -3897,6 +3969,12 @@
               "hex_id": "8E440A5904CEBBC8",
               "encoded_id": "jkQKWQTOu8g",
               "name": "sceNpManagerIntGetOnlineIdInternal"
+            },
+            {
+              "id": 12770923315130107448,
+              "hex_id": "B13B6F1784158638",
+              "encoded_id": "sTtvF4QVhjg",
+              "name": "sceNpManagerIntGetOnlineIdSdk"
             },
             {
               "id": 4149185749252864085,
@@ -5113,6 +5191,12 @@
               "hex_id": "78D6F9DCB4099883",
               "encoded_id": "eNb53LQJmIM",
               "name": "sceUserServiceGetForegroundUser"
+            },
+            {
+              "id": 2476993751835476882,
+              "hex_id": "22600CB191040392",
+              "encoded_id": "ImAMsZEEA5I",
+              "name": "sceUserServiceGetIsSpartacusEnabled"
             },
             {
               "id": 9005073454829874160,

@@ -150,6 +150,12 @@
               "name": "__sys_dynlib_load_prx"
             },
             {
+              "id": 1804081845321027060,
+              "hex_id": "190962E140174DF4",
+              "encoded_id": "GQli4UAXTfQ",
+              "name": "__sys_dynlib_unload_prx"
+            },
+            {
               "id": 11272445419737494858,
               "hex_id": "9C6FC562A16EB54A",
               "encoded_id": "nG-FYqFutUo",
@@ -3057,6 +3063,12 @@
               "name": "sceKernelDebugPackageCorrupted"
             },
             {
+              "id": 14357704496314256973,
+              "hex_id": "C740D02B44D70E4D",
+              "encoded_id": "x0DQK0TXDk0",
+              "name": "sceKernelDebugPauseWithDebugContext"
+            },
+            {
               "id": 4089498434067361934,
               "hex_id": "38C0D128A019F08E",
               "encoded_id": "OMDRKKAZ8I4",
@@ -3195,6 +3207,12 @@
               "name": "sceKernelEnableDmemAliasing2"
             },
             {
+              "id": 5023840142169729485,
+              "hex_id": "45B843FDEA5FE9CD",
+              "encoded_id": "RbhD-epf6c0",
+              "name": "sceKernelEnableDmemAliasing3"
+            },
+            {
               "id": 13698068100527691245,
               "hex_id": "BE19505CA91015ED",
               "encoded_id": "vhlQXKkQFe0",
@@ -3285,6 +3303,18 @@
               "name": "sceKernelFutimes"
             },
             {
+              "id": 9901082373744168774,
+              "hex_id": "8967B5F5F2E70F46",
+              "encoded_id": "iWe19fLnD0Y",
+              "name": "sceKernelGetAioDebugRequestInfo"
+            },
+            {
+              "id": 13396598330437871531,
+              "hex_id": "B9EA47340C5727AB",
+              "encoded_id": "uepHNAxXJ6s",
+              "name": "sceKernelGetAioDebugSubmitInfo"
+            },
+            {
               "id": 7054104714914880531,
               "hex_id": "61E536DD2CE8DC13",
               "encoded_id": "YeU23Szo3BM",
@@ -3295,6 +3325,12 @@
               "hex_id": "1BF318BF97AB5DA5",
               "encoded_id": "G-MYv5erXaU",
               "name": "sceKernelGetAppInfo"
+            },
+            {
+              "id": 17630007381022860409,
+              "hex_id": "F4AA5E4E2561E479",
+              "encoded_id": "9KpeTiVh5Hk",
+              "name": "sceKernelGetAppMemoryInfo"
             },
             {
               "id": 15367310494929335661,
@@ -4051,6 +4087,12 @@
               "hex_id": "66AC4F50C8AC3646",
               "encoded_id": "ZqxPUMisNkY",
               "name": "sceKernelIccControlUSBPowerState"
+            },
+            {
+              "id": 18366782036445447362,
+              "hex_id": "FEE3EAF3655B44C2",
+              "encoded_id": "-uPq82VbRMI",
+              "name": "sceKernelIccGetBDDriveChuckingState"
             },
             {
               "id": 14749621147018565628,
@@ -6801,12 +6843,6 @@
               "name": null
             },
             {
-              "id": 14357704496314256973,
-              "hex_id": "C740D02B44D70E4D",
-              "encoded_id": "x0DQK0TXDk0",
-              "name": null
-            },
-            {
               "id": 15491740344397566503,
               "hex_id": "D6FDB7C3B4679227",
               "encoded_id": "1v23w7Rnkic",
@@ -6828,12 +6864,6 @@
               "id": 18226984542259318727,
               "hex_id": "FCF341DED7E70FC7",
               "encoded_id": "-PNB3tfnD8c",
-              "name": null
-            },
-            {
-              "id": 18366782036445447362,
-              "hex_id": "FEE3EAF3655B44C2",
-              "encoded_id": "-uPq82VbRMI",
               "name": null
             }
           ]
@@ -6954,6 +6984,19 @@
         },
         {
           "name": "libkernel_dmem_aliasing2_for_dev",
+          "version": 1,
+          "is_export": true,
+          "symbols": [
+            {
+              "id": 13457269375432656179,
+              "hex_id": "BAC1D33281680533",
+              "encoded_id": "usHTMoFoBTM",
+              "name": "sceKernelEnableDmemAliasing"
+            }
+          ]
+        },
+        {
+          "name": "libkernel_dmem_aliasing3",
           "version": 1,
           "is_export": true,
           "symbols": [
@@ -7156,7 +7199,7 @@
               "id": 743970382087604048,
               "hex_id": "0A531D1EEBBE4750",
               "encoded_id": "ClMdHuu+R1A",
-              "name": null
+              "name": "sceKernelExtendMaximumModuleNumber"
             }
           ]
         },
@@ -7676,6 +7719,12 @@
               "hex_id": "0DB6E48FA60759DA",
               "encoded_id": "Dbbkj6YHWdo",
               "name": "sceCoredumpWriteUserData"
+            },
+            {
+              "id": 16096586645321932354,
+              "hex_id": "DF62904542B5DE42",
+              "encoded_id": "32KQRUK13kI",
+              "name": "sceCoredumpWriteUserString"
             },
             {
               "id": 10991326615848991914,

@@ -3100,6 +3100,12 @@
               "name": "fclose"
             },
             {
+              "id": 12238892134190384398,
+              "hex_id": "A9D9478D36BD850E",
+              "encoded_id": "qdlHjTa9hQ4",
+              "name": "fdopen"
+            },
+            {
               "id": 35028812122715950,
               "hex_id": "007C7284DF7A772E",
               "encoded_id": "AHxyhN96dy4",

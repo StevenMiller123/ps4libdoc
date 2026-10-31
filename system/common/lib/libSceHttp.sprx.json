@@ -757,6 +757,12 @@
               "name": "get_self_auth_info"
             },
             {
+              "id": 2198554145645331479,
+              "hex_id": "1E82D558D6A70417",
+              "encoded_id": "HoLVWNanBBc",
+              "name": "getpid"
+            },
+            {
               "id": 4618647147384200732,
               "hex_id": "4018BB1C22B4DE1C",
               "encoded_id": "QBi7HCK03hw",
@@ -773,6 +779,12 @@
               "hex_id": "47526F9FC6D2096F",
               "encoded_id": "R1Jvn8bSCW8",
               "name": "sceKernelDeleteSema"
+            },
+            {
+              "id": 2013980669527154085,
+              "hex_id": "1BF318BF97AB5DA5",
+              "encoded_id": "G-MYv5erXaU",
+              "name": "sceKernelGetAppInfo"
             },
             {
               "id": 6349717562011184837,
@@ -821,6 +833,12 @@
               "hex_id": "E1CCE9A47062AE2C",
               "encoded_id": "4czppHBiriw",
               "name": "sceKernelSignalSema"
+            },
+            {
+              "id": 15503389797457555664,
+              "hex_id": "D7271AE15BDF70D0",
+              "encoded_id": "1yca4VvfcNA",
+              "name": "sceKernelTitleWorkaroundIsEnabled"
             },
             {
               "id": 15436042836469058247,

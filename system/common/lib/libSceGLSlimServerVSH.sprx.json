@@ -1334,6 +1334,12 @@
               "name": null
             },
             {
+              "id": 15603841060864076775,
+              "hex_id": "D88BFAC5AC752BE7",
+              "encoded_id": "2Iv6xax1K+c",
+              "name": null
+            },
+            {
               "id": 17736790410055958119,
               "hex_id": "F625BCE786F0BE67",
               "encoded_id": "9iW854bwvmc",
@@ -2013,6 +2019,12 @@
               "hex_id": "437541C425E1507B",
               "encoded_id": "Q3VBxCXhUHs",
               "name": "memcpy"
+            },
+            {
+              "id": 17941924494238559728,
+              "hex_id": "F8FE854461F82DF0",
+              "encoded_id": "+P6FRGH4LfA",
+              "name": "memmove"
             },
             {
               "id": 17524849461551964383,

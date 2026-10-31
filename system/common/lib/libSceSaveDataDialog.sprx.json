@@ -5,6 +5,7 @@
     "libSceCommonDialog.prx",
     "libSceLibcInternal.prx",
     "libSceRtc.prx",
+    "libSceSaveData.prx",
     "libSceSystemService.prx",
     "libSceUserService.prx"
   ],
@@ -614,6 +615,26 @@
               "hex_id": "E6336E6F0E2F9400",
               "encoded_id": "5jNubw4vlAA",
               "name": "strnlen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "libSceSaveData",
+      "version_major": 1,
+      "version_minor": 1,
+      "libraries": [
+        {
+          "name": "libSceSaveData",
+          "version": 1,
+          "is_export": false,
+          "symbols": [
+            {
+              "id": 13879716416280832175,
+              "hex_id": "C09EA88AEF93A8AF",
+              "encoded_id": "wJ6oiu+TqK8",
+              "name": null
             }
           ]
         }

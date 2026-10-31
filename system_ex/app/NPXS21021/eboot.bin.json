@@ -91,6 +91,12 @@
               "name": null
             },
             {
+              "id": 5729543741229575090,
+              "hex_id": "4F836DAD1D0D2BB2",
+              "encoded_id": "T4NtrR0NK7I",
+              "name": null
+            },
+            {
               "id": 5984632052957812587,
               "hex_id": "530DAF24EBF7976B",
               "encoded_id": "Uw2vJOv3l2s",
@@ -2094,6 +2100,12 @@
               "name": "sceLibcMspaceMalloc"
             },
             {
+              "id": 12050319648545436194,
+              "hex_id": "A73B55E00175F222",
+              "encoded_id": "pztV4AF18iI",
+              "name": "sincosf"
+            },
+            {
               "id": 8698495712930102709,
               "hex_id": "78B743C3A974FDB5",
               "encoded_id": "eLdDw6l0-bU",
@@ -2176,6 +2188,12 @@
               "hex_id": "9979718662CD30F8",
               "encoded_id": "mXlxhmLNMPg",
               "name": "strtol"
+            },
+            {
+              "id": 13887207423665328580,
+              "hex_id": "C0B9459301BD51C4",
+              "encoded_id": "wLlFkwG9UcQ",
+              "name": "time"
             },
             {
               "id": 4856426907243348013,
@@ -2455,6 +2473,12 @@
           "version": 1,
           "is_export": false,
           "symbols": [
+            {
+              "id": 2684055025872228112,
+              "hex_id": "253FADD346B74F10",
+              "encoded_id": "JT+t00a3TxA",
+              "name": "sceNpGetAccountCountryA"
+            },
             {
               "id": 12104052782473426742,
               "hex_id": "A7FA3BE029E83736",
@@ -2831,6 +2855,18 @@
               "name": "scePadGetControllerInformation"
             },
             {
+              "id": 9527403155871250956,
+              "hex_id": "843822B121A43A0C",
+              "encoded_id": "hDgisSGkOgw",
+              "name": "scePadGetDeviceId"
+            },
+            {
+              "id": 16335886036063294883,
+              "hex_id": "E2B4B9CC6ED115A3",
+              "encoded_id": "4rS5zG7RFaM",
+              "name": "scePadGetDeviceInfo"
+            },
+            {
               "id": 9727042620305942787,
               "hex_id": "86FD65BA226BA903",
               "encoded_id": "hv1luiJrqQM",
@@ -2955,6 +2991,12 @@
           "is_export": false,
           "symbols": [
             {
+              "id": 12607323182223967654,
+              "hex_id": "AEF635A34501C5A6",
+              "encoded_id": "rvY1o0UBxaY",
+              "name": "_ZN3sce3pss5orbis9framework11PsmArrayObj9ToPointerEv"
+            },
+            {
               "id": 2648181729824194103,
               "hex_id": "24C03B40AAD9BE37",
               "encoded_id": "JMA7QKrZvjc",
@@ -2971,6 +3013,12 @@
               "hex_id": "BCD70B4817CBB5B9",
               "encoded_id": "vNcLSBfLtbk",
               "name": "_ZN3sce3pss5orbis9framework12PsmFramework20RegisterInternalCallEPKNS2_12PsmCallEntryE"
+            },
+            {
+              "id": 3480022365226643338,
+              "hex_id": "304B85E739BFAF8A",
+              "encoded_id": "MEuF5zm-r4o",
+              "name": "_ZN3sce3pss5orbis9framework12PsmFramework24RegisterPInvokeCallTableEPKNS2_15PsmLibraryEntryE"
             },
             {
               "id": 8254345782622603701,
@@ -2991,10 +3039,22 @@
               "name": "_ZN3sce3pss5orbis9framework12PsmInitParamC1Ev"
             },
             {
+              "id": 4402221466493470754,
+              "hex_id": "3D17D5198CF14822",
+              "encoded_id": "PRfVGYzxSCI",
+              "name": "_ZN3sce3pss5orbis9framework12PsmStringObj17NewAndStoreStringEPvPc"
+            },
+            {
               "id": 3397119972433408367,
               "hex_id": "2F24FE9DC047316F",
               "encoded_id": "LyT+ncBHMW8",
               "name": "_ZN3sce3pss5orbis9framework12PsmStringObj6ToUtf8Ev"
+            },
+            {
+              "id": 651404626361881403,
+              "hex_id": "090A410E6F58933B",
+              "encoded_id": "CQpBDm9Ykzs",
+              "name": "_ZN3sce3pss5orbis9framework12PsmStringObj8FreeUtf8EPc"
             },
             {
               "id": 17108791560888289576,
@@ -3079,6 +3139,18 @@
           "is_export": false,
           "symbols": [
             {
+              "id": 3283194727437647523,
+              "hex_id": "2D904035A15B3EA3",
+              "encoded_id": "LZBANaFbPqM",
+              "name": "sceRegMgrCheckError"
+            },
+            {
+              "id": 3939607980761385147,
+              "hex_id": "36AC4C95E79388BB",
+              "encoded_id": "NqxMleeTiLs",
+              "name": "sceRegMgrGetBin"
+            },
+            {
               "id": 11022008199146638594,
               "hex_id": "98F60A0F5D940D02",
               "encoded_id": "mPYKD12UDQI",
@@ -3091,16 +3163,64 @@
               "name": "sceRegMgrGetStr"
             },
             {
+              "id": 12387519672615405934,
+              "hex_id": "ABE94F82A667896E",
+              "encoded_id": "q+lPgqZniW4",
+              "name": "sceRegMgrGetVersion"
+            },
+            {
+              "id": 12530959004768289857,
+              "hex_id": "ADE6E8D2AE324441",
+              "encoded_id": "rebo0q4yREE",
+              "name": "sceRegMgrIsInitOK"
+            },
+            {
+              "id": 8700651227849455015,
+              "hex_id": "78BEEC31968875A7",
+              "encoded_id": "eL7sMZaIdac",
+              "name": "sceRegMgrResetVal"
+            },
+            {
+              "id": 8753989828427341230,
+              "hex_id": "797C6B5E4ACB5DAE",
+              "encoded_id": "eXxrXkrLXa4",
+              "name": "sceRegMgrSetBin"
+            },
+            {
+              "id": 6995154175689716338,
+              "hex_id": "6113C7A92F137272",
+              "encoded_id": "YRPHqS8TcnI",
+              "name": "sceRegMgrSetInitLevel"
+            },
+            {
+              "id": 10526768830325547735,
+              "hex_id": "9216987A5C3562D7",
+              "encoded_id": "khaYelw1Ytc",
+              "name": "sceRegMgrSetInt"
+            },
+            {
               "id": 9075359672036902603,
               "hex_id": "7DF22789D4AA46CB",
               "encoded_id": "ffInidSqRss",
               "name": "sceRegMgrSetStr"
             },
             {
+              "id": 15243822701346629192,
+              "hex_id": "D38CEFFB4CCD2648",
+              "encoded_id": "04zv+0zNJkg",
+              "name": "sceRegMgrSrvGetMachineType"
+            },
+            {
               "id": 13909765436053106024,
               "hex_id": "C10969F78CF3AD68",
               "encoded_id": "wQlp94zzrWg",
               "name": "sceRegMgrSrvGetQAFforReg"
+            },
+            {
+              "id": 12910730503197385920,
+              "hex_id": "B32C20FD19E164C0",
+              "encoded_id": "sywg-RnhZMA",
+              "name": "sceRegMgrSrvGetRegion"
             }
           ]
         }

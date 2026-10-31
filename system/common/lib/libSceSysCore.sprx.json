@@ -197,6 +197,18 @@
               "name": "sceApplicationGetStateForDebugger"
             },
             {
+              "id": 11970747604206643946,
+              "hex_id": "A620A385B4986AEA",
+              "encoded_id": "piCjhbSYauo",
+              "name": "sceApplicationHasDebugAttachedProcess"
+            },
+            {
+              "id": 6320433366517488509,
+              "hex_id": "57B6B0A8E5CD1B7D",
+              "encoded_id": "V7awqOXNG30",
+              "name": "sceApplicationHasDebugSuspendedProcess"
+            },
+            {
               "id": 6653515072638479037,
               "hex_id": "5C5608B4EC52EABD",
               "encoded_id": "XFYItOxS6r0",
@@ -485,28 +497,16 @@
               "name": "sceSysCoreGetEventCount"
             },
             {
+              "id": 10691612152278163993,
+              "hex_id": "94603C9B1CCA2219",
+              "encoded_id": "lGA8mxzKIhk",
+              "name": "sceSysCoreNoticePowerButtonHandling"
+            },
+            {
               "id": 15098778983581114335,
               "hex_id": "D189A37D227C5FDF",
               "encoded_id": "0YmjfSJ8X98",
               "name": "sceSysCoreReceiveEvent"
-            },
-            {
-              "id": 6320433366517488509,
-              "hex_id": "57B6B0A8E5CD1B7D",
-              "encoded_id": "V7awqOXNG30",
-              "name": null
-            },
-            {
-              "id": 10691612152278163993,
-              "hex_id": "94603C9B1CCA2219",
-              "encoded_id": "lGA8mxzKIhk",
-              "name": null
-            },
-            {
-              "id": 11970747604206643946,
-              "hex_id": "A620A385B4986AEA",
-              "encoded_id": "piCjhbSYauo",
-              "name": null
             }
           ]
         }

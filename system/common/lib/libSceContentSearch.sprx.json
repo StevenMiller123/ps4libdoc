@@ -1582,6 +1582,12 @@
               "name": "sceRegMgrGetStr"
             },
             {
+              "id": 8405876926328534126,
+              "hex_id": "74A7AC873B76F46E",
+              "encoded_id": "dKeshzt29G4",
+              "name": "sceRegMgrNonSysGetInt"
+            },
+            {
               "id": 9075359672036902603,
               "hex_id": "7DF22789D4AA46CB",
               "encoded_id": "ffInidSqRss",

@@ -36,6 +36,12 @@
               "name": "sceVoiceDeletePort"
             },
             {
+              "id": 6564797764154895787,
+              "hex_id": "5B1AD8C8E2BB2DAB",
+              "encoded_id": "WxrYyOK7Las",
+              "name": "sceVoiceDeviceInCustomerData"
+            },
+            {
               "id": 7653132942653700718,
               "hex_id": "6A3563DD01B6BA6E",
               "encoded_id": "ajVj3QG2um4",
@@ -603,6 +609,12 @@
               "hex_id": "940F786604FEBCC3",
               "encoded_id": "lA94ZgT+vMM",
               "name": "__isnanf"
+            },
+            {
+              "id": 6504929611819555182,
+              "hex_id": "5A462704716C996E",
+              "encoded_id": "WkYnBHFsmW4",
+              "name": "__isnormalf"
             },
             {
               "id": 18230154803464689831,

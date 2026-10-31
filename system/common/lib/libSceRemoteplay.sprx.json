@@ -46,10 +46,22 @@
               "name": "sceRemoteplayConfirmDeviceRegist"
             },
             {
+              "id": 5248199459102990152,
+              "hex_id": "48D5599A163B1F48",
+              "encoded_id": "SNVZmhY7H0g",
+              "name": "sceRemoteplayDisableInputDevice"
+            },
+            {
               "id": 16769214805991892327,
               "hex_id": "E8B83804D95E2567",
               "encoded_id": "6Lg4BNleJWc",
               "name": "sceRemoteplayDisconnect"
+            },
+            {
+              "id": 10288676596559684040,
+              "hex_id": "8EC8B8DA52D0A1C8",
+              "encoded_id": "jsi42lLQocg",
+              "name": "sceRemoteplayEnableInputDevice"
             },
             {
               "id": 10367017464934621670,

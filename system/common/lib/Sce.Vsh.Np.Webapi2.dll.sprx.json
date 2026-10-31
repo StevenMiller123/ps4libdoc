@@ -324,7 +324,7 @@
               "hex_id": "291478F4583FE26A",
               "encoded_id": "KRR49Fg-4mo",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_Webapi2unbox_trampolines_end"
             },
             {
               "id": 2966363594795287846,
@@ -379,7 +379,7 @@
               "hex_id": "3028E5A4CEBF78AC",
               "encoded_id": "MCjlpM6-eKw",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_Webapi2plt_end"
             },
             {
               "id": 3518083517102054965,
@@ -470,7 +470,7 @@
               "hex_id": "443B9D013BB389CF",
               "encoded_id": "RDudATuzic8",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_Webapi2unbox_trampoline_addresses"
             },
             {
               "id": 4919050567644277506,
@@ -513,7 +513,7 @@
               "hex_id": "49017067CA5FDEDC",
               "encoded_id": "SQFwZ8pf3tw",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_Webapi2unbox_trampolines"
             },
             {
               "id": 5274684589752669549,
@@ -622,7 +622,7 @@
               "hex_id": "56BADEF1BDAC9781",
               "encoded_id": "Vrre8b2sl4E",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_Webapi2jit_got"
             },
             {
               "id": 6273305519194815561,
@@ -713,7 +713,7 @@
               "hex_id": "642113934591B193",
               "encoded_id": "ZCETk0WRsZM",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_Webapi2jit_code_end"
             },
             {
               "id": 7364649810330304272,
@@ -954,7 +954,7 @@
               "hex_id": "86C6EC6D775D71D9",
               "encoded_id": "hsbsbXddcdk",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_Webapi2jit_code_start"
             },
             {
               "id": 9725624123597626525,
@@ -1321,7 +1321,7 @@
               "hex_id": "BD2ED3B4E8DF6F51",
               "encoded_id": "vS7TtOjfb1E",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_Webapi2method_addresses"
             },
             {
               "id": 13657302906760926224,
@@ -1466,7 +1466,7 @@
               "hex_id": "D28D788BB91ADA77",
               "encoded_id": "0o14i7ka2nc",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_Webapi2plt"
             },
             {
               "id": 15218082385078638829,
@@ -1707,7 +1707,7 @@
               "hex_id": "F4E3903C45D71EF2",
               "encoded_id": "9OOQPEXXHvI",
               "type": "Object",
-              "name": null
+              "name": "mono_aot_Sce_Vsh_Np_Webapi2unwind_info"
             },
             {
               "id": 17772527277515857266,

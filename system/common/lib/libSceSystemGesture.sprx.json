@@ -130,6 +130,12 @@
               "name": "sceSystemGestureResetTouchRecognizer"
             },
             {
+              "id": 8458500131699535990,
+              "hex_id": "7562A10E028BB076",
+              "encoded_id": "dWKhDgKLsHY",
+              "name": "sceSystemGestureSetTouchAreaInformation"
+            },
+            {
               "id": 13903252792468910946,
               "hex_id": "C0F246C08D913362",
               "encoded_id": "wPJGwI2RM2I",
@@ -152,12 +158,6 @@
               "hex_id": "E16380D5E4F1DD5F",
               "encoded_id": "4WOA1eTx3V8",
               "name": "sceSystemGestureUpdateTouchRecognizerRectangle"
-            },
-            {
-              "id": 8458500131699535990,
-              "hex_id": "7562A10E028BB076",
-              "encoded_id": "dWKhDgKLsHY",
-              "name": null
             }
           ]
         }

@@ -21,6 +21,7 @@
     "libSceNpUtility.prx",
     "libSceNpWebApi.prx",
     "libSceNpWebApi2.prx",
+    "libScePsm.prx",
     "libSceRandom.prx",
     "libSceRegMgr.prx",
     "libSceRemoteplay.prx",
@@ -1125,6 +1126,12 @@
               "name": "sceAudioInGetHandleStatusInfo"
             },
             {
+              "id": 16053162893739541415,
+              "hex_id": "DEC84A993AD3C3A7",
+              "encoded_id": "3shKmTrTw6c",
+              "name": "sceAudioInGetRerouteCount"
+            },
+            {
               "id": 470700932393571649,
               "hex_id": "068844010EC39541",
               "encoded_id": "BohEAQ7DlUE",
@@ -1947,10 +1954,23 @@
               "name": "_Mtx_unlock"
             },
             {
+              "id": 2287874432227194072,
+              "hex_id": "1FC029ACA799B4D8",
+              "encoded_id": "H8AprKeZtNg",
+              "type": "Object",
+              "name": "_Stderr"
+            },
+            {
               "id": 14868568335454751040,
               "hex_id": "CE57C41FC166C940",
               "encoded_id": "zlfEH8FmyUA",
               "name": "_Stoul"
+            },
+            {
+              "id": 12389196766469839509,
+              "hex_id": "ABEF44D17DDA5A95",
+              "encoded_id": "q+9E0X3aWpU",
+              "name": "_Stoull"
             },
             {
               "id": 11429767920620969329,
@@ -2384,6 +2404,12 @@
               "name": "fgetpos"
             },
             {
+              "id": 9076987528548799568,
+              "hex_id": "7DF7F010B5CD5450",
+              "encoded_id": "fffwELXNVFA",
+              "name": "fprintf"
+            },
+            {
               "id": 7607350068041153804,
               "hex_id": "6992BC94D7A2FD0C",
               "encoded_id": "aZK8lNei-Qw",
@@ -2479,6 +2505,12 @@
               "hex_id": "F4B0A3A56C90E597",
               "encoded_id": "9LCjpWyQ5Zc",
               "name": "pow"
+            },
+            {
+              "id": 15293388536655622673,
+              "hex_id": "D43D07D8A363B211",
+              "encoded_id": "1D0H2KNjshE",
+              "name": "powf"
             },
             {
               "id": 9640958307794899731,
@@ -2747,6 +2779,18 @@
               "name": "sceMbusEventDestroy"
             },
             {
+              "id": 10275732318085124381,
+              "hex_id": "8E9ABC19A277111D",
+              "encoded_id": "jpq8GaJ3ER0",
+              "name": "sceMbusGetDeviceInfoByBusId_"
+            },
+            {
+              "id": 5126955444541225179,
+              "hex_id": "47269AD0232278DB",
+              "encoded_id": "Ryaa0CMieNs",
+              "name": "sceMbusResolveByHandle"
+            },
+            {
               "id": 5425724580658245071,
               "hex_id": "4B4C0BC2673D6DCF",
               "encoded_id": "S0wLwmc9bc8",
@@ -2895,6 +2939,72 @@
               "hex_id": "9B39482EC171D1C5",
               "encoded_id": "mzlILsFx0cU",
               "name": "_sceNpAllocatorMalloc"
+            },
+            {
+              "id": 10594077837572962490,
+              "hex_id": "9305B9A9D75FF8BA",
+              "encoded_id": "kwW5qddf+Lo",
+              "name": "_sceNpHeapMalloc"
+            },
+            {
+              "id": 7732642929034759627,
+              "hex_id": "6B4FDDC6500D8DCB",
+              "encoded_id": "a0-dxlANjcs",
+              "name": "_ZN3sce2np10JsonObject12SetFieldBoolEPKcbPPNS0_8JsonBoolE"
+            },
+            {
+              "id": 1005653646734124866,
+              "hex_id": "0DF4CCA9DCA9E742",
+              "encoded_id": "DfTMqdyp50I",
+              "name": "_ZN3sce2np10JsonObject13SetFieldArrayEPKcPPNS0_9JsonArrayE"
+            },
+            {
+              "id": 12427057034540758277,
+              "hex_id": "AC75C68813523505",
+              "encoded_id": "rHXGiBNSNQU",
+              "name": "_ZN3sce2np10JsonObject14SetFieldNumberEPKcjPPNS0_10JsonNumberE"
+            },
+            {
+              "id": 16589477056631215152,
+              "hex_id": "E639A97CF9FF1430",
+              "encoded_id": "5jmpfPn-FDA",
+              "name": "_ZN3sce2np10JsonObject14SetFieldNumberEPKcmPPNS0_10JsonNumberE"
+            },
+            {
+              "id": 9243372518735464960,
+              "hex_id": "80470E5511D5CA00",
+              "encoded_id": "gEcOVRHVygA",
+              "name": "_ZN3sce2np10JsonObject14SetFieldObjectEPKcPPS1_"
+            },
+            {
+              "id": 14107953806319633876,
+              "hex_id": "C3C9853D5D4D45D4",
+              "encoded_id": "w8mFPV1NRdQ",
+              "name": "_ZN3sce2np10JsonObject14SetFieldStringEPKcS3_PPNS0_10JsonStringE"
+            },
+            {
+              "id": 15360150678120975137,
+              "hex_id": "D52A37A901E04B21",
+              "encoded_id": "1So3qQHgSyE",
+              "name": "_ZN3sce2np12SelectorItem4InitEPKc"
+            },
+            {
+              "id": 15215118606515313550,
+              "hex_id": "D326F5C26CC81B8E",
+              "encoded_id": "0yb1wmzIG44",
+              "name": "_ZN3sce2np12SelectorItem6NotifyEv"
+            },
+            {
+              "id": 17829264002920402047,
+              "hex_id": "F76E4525ACBACC7F",
+              "encoded_id": "925FJay6zH8",
+              "name": "_ZN3sce2np12SelectorItemC2Ev"
+            },
+            {
+              "id": 2287317228477952438,
+              "hex_id": "1FBE2EE68C0F31B6",
+              "encoded_id": "H74u5owPMbY",
+              "name": "_ZN3sce2np12SelectorItemD2Ev"
             },
             {
               "id": 4431645955797120941,
@@ -3059,6 +3169,24 @@
               "name": "_ZN3sce2np8Selector4InitEPKc"
             },
             {
+              "id": 13297073583559164193,
+              "hex_id": "B888B1F92C464121",
+              "encoded_id": "uIix+SxGQSE",
+              "name": "_ZN3sce2np8Selector4WaitEPNS1_5EventEiPij"
+            },
+            {
+              "id": 8151639908567531295,
+              "hex_id": "7120714EBF10BF1F",
+              "encoded_id": "cSBxTr8Qvx8",
+              "name": "_ZN3sce2np8Selector8RegisterEPNS0_12SelectorItemEj"
+            },
+            {
+              "id": 11738596031857646868,
+              "hex_id": "A2E7DEE5B0AF5D14",
+              "encoded_id": "oufe5bCvXRQ",
+              "name": "_ZN3sce2np8SelectorC1EP16SceNpAllocatorEx"
+            },
+            {
               "id": 4228416582644404584,
               "hex_id": "3AAE5A7A92E41168",
               "encoded_id": "Oq5aepLkEWg",
@@ -3075,6 +3203,24 @@
               "hex_id": "81AE0E5BD3066A15",
               "encoded_id": "ga4OW9MGahU",
               "name": "_ZN3sce2np8WorkItemD2Ev"
+            },
+            {
+              "id": 3566530590527938398,
+              "hex_id": "317EDCAD00FB5F5E",
+              "encoded_id": "MX7crQD7X14",
+              "name": "_ZN3sce2np9JsonArray13AddItemObjectEPPNS0_10JsonObjectE"
+            },
+            {
+              "id": 8576808489631192421,
+              "hex_id": "7706F1E123059565",
+              "encoded_id": "dwbx4SMFlWU",
+              "name": "_ZN3sce2np9JsonArray13AddItemStringEPKcPPNS0_10JsonStringE"
+            },
+            {
+              "id": 6175711225465321782,
+              "hex_id": "55B488A3A540B936",
+              "encoded_id": "VbSIo6VAuTY",
+              "name": "_ZN3sce2np9JsonValueC2EP16SceNpAllocatorExNS1_9ValueTypeE"
             },
             {
               "id": 14909980433896498831,
@@ -3211,6 +3357,18 @@
               "name": "sceNpJsonParseExInit"
             },
             {
+              "id": 8499930904010722892,
+              "hex_id": "75F5D21F64EC8E4C",
+              "encoded_id": "dfXSH2Tsjkw",
+              "name": "sceNpMemoryHeapDestroy"
+            },
+            {
+              "id": 10491332980741462422,
+              "hex_id": "9198B3C2B16F5996",
+              "encoded_id": "kZizwrFvWZY",
+              "name": "sceNpMemoryHeapInit"
+            },
+            {
               "id": 7387544604216666332,
               "hex_id": "6685D4AD38B028DC",
               "encoded_id": "ZoXUrTiwKNw",
@@ -3263,102 +3421,6 @@
               "hex_id": "11FB440789269128",
               "encoded_id": "EftEB4kmkSg",
               "name": "sceNpUtilJsonEscape"
-            },
-            {
-              "id": 1005653646734124866,
-              "hex_id": "0DF4CCA9DCA9E742",
-              "encoded_id": "DfTMqdyp50I",
-              "name": null
-            },
-            {
-              "id": 2287317228477952438,
-              "hex_id": "1FBE2EE68C0F31B6",
-              "encoded_id": "H74u5owPMbY",
-              "name": null
-            },
-            {
-              "id": 3566530590527938398,
-              "hex_id": "317EDCAD00FB5F5E",
-              "encoded_id": "MX7crQD7X14",
-              "name": null
-            },
-            {
-              "id": 6175711225465321782,
-              "hex_id": "55B488A3A540B936",
-              "encoded_id": "VbSIo6VAuTY",
-              "name": null
-            },
-            {
-              "id": 7732642929034759627,
-              "hex_id": "6B4FDDC6500D8DCB",
-              "encoded_id": "a0-dxlANjcs",
-              "name": null
-            },
-            {
-              "id": 8151639908567531295,
-              "hex_id": "7120714EBF10BF1F",
-              "encoded_id": "cSBxTr8Qvx8",
-              "name": null
-            },
-            {
-              "id": 8576808489631192421,
-              "hex_id": "7706F1E123059565",
-              "encoded_id": "dwbx4SMFlWU",
-              "name": null
-            },
-            {
-              "id": 9243372518735464960,
-              "hex_id": "80470E5511D5CA00",
-              "encoded_id": "gEcOVRHVygA",
-              "name": null
-            },
-            {
-              "id": 11738596031857646868,
-              "hex_id": "A2E7DEE5B0AF5D14",
-              "encoded_id": "oufe5bCvXRQ",
-              "name": null
-            },
-            {
-              "id": 12427057034540758277,
-              "hex_id": "AC75C68813523505",
-              "encoded_id": "rHXGiBNSNQU",
-              "name": null
-            },
-            {
-              "id": 13297073583559164193,
-              "hex_id": "B888B1F92C464121",
-              "encoded_id": "uIix+SxGQSE",
-              "name": null
-            },
-            {
-              "id": 14107953806319633876,
-              "hex_id": "C3C9853D5D4D45D4",
-              "encoded_id": "w8mFPV1NRdQ",
-              "name": null
-            },
-            {
-              "id": 15215118606515313550,
-              "hex_id": "D326F5C26CC81B8E",
-              "encoded_id": "0yb1wmzIG44",
-              "name": null
-            },
-            {
-              "id": 15360150678120975137,
-              "hex_id": "D52A37A901E04B21",
-              "encoded_id": "1So3qQHgSyE",
-              "name": null
-            },
-            {
-              "id": 16589477056631215152,
-              "hex_id": "E639A97CF9FF1430",
-              "encoded_id": "5jmpfPn-FDA",
-              "name": null
-            },
-            {
-              "id": 17829264002920402047,
-              "hex_id": "F76E4525ACBACC7F",
-              "encoded_id": "925FJay6zH8",
-              "name": null
             }
           ]
         }
@@ -3481,6 +3543,12 @@
               "hex_id": "56061CCCF181E6CB",
               "encoded_id": "VgYczPGB5ss",
               "name": "sceNpGetUserIdByAccountId"
+            },
+            {
+              "id": 4154420774611924116,
+              "hex_id": "39A777AEF63F3494",
+              "encoded_id": "Oad3rvY-NJQ",
+              "name": "sceNpHasSignedUp"
             },
             {
               "id": 8978929411343735645,
@@ -3651,6 +3719,12 @@
               "hex_id": "514848F8850CADC1",
               "encoded_id": "UUhI+IUMrcE",
               "name": "sceNpAppInfoIntCheckAvailability"
+            },
+            {
+              "id": 83923107071246409,
+              "hex_id": "012A279F096DC049",
+              "encoded_id": "ASonnwltwEk",
+              "name": "sceNpAppInfoIntCheckAvailabilityA"
             },
             {
               "id": 8176973491492943434,
@@ -4072,21 +4146,21 @@
           "is_export": false,
           "symbols": [
             {
+              "id": 16203733358407613881,
+              "hex_id": "E0DF39A36F087DB9",
+              "encoded_id": "4N85o28Ifbk",
+              "name": "sceNpWebApi2SendRequestAsyncRestricted"
+            },
+            {
               "id": 275326933696064371,
               "hex_id": "03D22863300D2B73",
               "encoded_id": "A9IoYzANK3M",
-              "name": null
+              "name": "sceNpWebApi2WaitAsyncRestricted"
             },
             {
               "id": 10892359724098573633,
               "hex_id": "97296F7578AAD541",
               "encoded_id": "lylvdXiq1UE",
-              "name": null
-            },
-            {
-              "id": 16203733358407613881,
-              "hex_id": "E0DF39A36F087DB9",
-              "encoded_id": "4N85o28Ifbk",
               "name": null
             }
           ]
@@ -4971,6 +5045,12 @@
               "hex_id": "8F760CBB531534DA",
               "encoded_id": "j3YMu1MVNNo",
               "name": "sceUserServiceInitialize"
+            },
+            {
+              "id": 11014047501287967244,
+              "hex_id": "98D9C1D8F58C4A0C",
+              "encoded_id": "mNnB2PWMSgw",
+              "name": "sceUserServiceIsKratosPrimaryUser"
             },
             {
               "id": 3574811314532252008,

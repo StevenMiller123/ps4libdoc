@@ -508,6 +508,12 @@
               "name": "sceFsMountTrophyData"
             },
             {
+              "id": 16441254394061181769,
+              "hex_id": "E42B11C30BD8D349",
+              "encoded_id": "5CsRwwvY00k",
+              "name": "sceFsPs4SaveDataGetBlkBitmap"
+            },
+            {
               "id": 14339596381533956090,
               "hex_id": "C7007AEF3FCEE7FA",
               "encoded_id": "xwB67z-O5-o",
@@ -614,6 +620,12 @@
               "hex_id": "79D98C82E3FF7F68",
               "encoded_id": "edmMguP-f2g",
               "name": "sceFsUfsCheckFixedCylinderGroupSize"
+            },
+            {
+              "id": 16750869191102589525,
+              "hex_id": "E8770AC786B46A55",
+              "encoded_id": "6HcKx4a0alU",
+              "name": "sceFsUfsCoerceCryptMode"
             },
             {
               "id": 18417807702257077968,
@@ -805,12 +817,6 @@
               "id": 9661324292884504664,
               "hex_id": "8613EB41A93BA058",
               "encoded_id": "hhPrQak7oFg",
-              "name": null
-            },
-            {
-              "id": 16750869191102589525,
-              "hex_id": "E8770AC786B46A55",
-              "encoded_id": "6HcKx4a0alU",
               "name": null
             },
             {

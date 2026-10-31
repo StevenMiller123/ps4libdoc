@@ -332,6 +332,18 @@
               "hex_id": "8D0D3AE7A768D55E",
               "encoded_id": "jQ0656do1V4",
               "name": "sceRegMgrToolGetUpdateCnt"
+            },
+            {
+              "id": 9616105002487069649,
+              "hex_id": "8573448D2C193BD1",
+              "encoded_id": "hXNEjSwZO9E",
+              "name": null
+            },
+            {
+              "id": 12335287805148188234,
+              "hex_id": "AB2FBEE75410CE4A",
+              "encoded_id": "qy++51QQzko",
+              "name": null
             }
           ]
         }

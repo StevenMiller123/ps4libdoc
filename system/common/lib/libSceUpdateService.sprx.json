@@ -577,6 +577,12 @@
               "hex_id": "EAC256896491BAA9",
               "encoded_id": "6sJWiWSRuqk",
               "name": "strncpy"
+            },
+            {
+              "id": 16587723275794093056,
+              "hex_id": "E6336E6F0E2F9400",
+              "encoded_id": "5jNubw4vlAA",
+              "name": "strnlen"
             }
           ]
         }

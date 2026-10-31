@@ -3826,6 +3826,12 @@
               "name": "strpbrk"
             },
             {
+              "id": 17807468441440187541,
+              "hex_id": "F720D63311057495",
+              "encoded_id": "9yDWMxEFdJU",
+              "name": "strrchr"
+            },
+            {
               "id": 15776367605459785722,
               "hex_id": "DAF0EAC0196917FA",
               "encoded_id": "2vDqwBlpF-o",
@@ -4536,10 +4542,22 @@
               "name": "sceNpManagerIntCheckNpAvailabilityByPid"
             },
             {
+              "id": 13709646504446436508,
+              "hex_id": "BE4272DBE5B4A49C",
+              "encoded_id": "vkJy2+W0pJw",
+              "name": "sceNpManagerIntClearAdultToChildConversionFlag"
+            },
+            {
               "id": 16544542159413177526,
               "hex_id": "E59A056FEF4BECB6",
               "encoded_id": "5ZoFb+9L7LY",
               "name": "sceNpManagerIntClearOnlineIdChangeFlag"
+            },
+            {
+              "id": 2529503496701974347,
+              "hex_id": "231A9A074307974B",
+              "encoded_id": "IxqaB0MHl0s",
+              "name": "sceNpManagerIntCreateAuthenticationTicket"
             },
             {
               "id": 16897238961385593816,
@@ -4606,6 +4624,12 @@
               "hex_id": "F65CF87E44BE7849",
               "encoded_id": "9lz4fkS+eEk",
               "name": "sceNpManagerIntGetAccountType"
+            },
+            {
+              "id": 13754736431995435061,
+              "hex_id": "BEE2A3E8C0363835",
+              "encoded_id": "vuKj6MA2ODU",
+              "name": "sceNpManagerIntGetAdultToChildConversionFlag"
             },
             {
               "id": 15290591240186391652,
@@ -4788,6 +4812,12 @@
               "name": "sceNpManagerIntLoginBind"
             },
             {
+              "id": 14204092553391919755,
+              "hex_id": "C51F12EBB9B2528B",
+              "encoded_id": "xR8S67myUos",
+              "name": "sceNpManagerIntLoginCreateAuthenticationTicket"
+            },
+            {
               "id": 14125336014376300600,
               "hex_id": "C40746440DEE7038",
               "encoded_id": "xAdGRA3ucDg",
@@ -4906,6 +4936,12 @@
               "hex_id": "774224595FAEDB98",
               "encoded_id": "d0IkWV+u25g",
               "name": "sceNpManagerIntPfAuth"
+            },
+            {
+              "id": 8943224036446051345,
+              "hex_id": "7C1CB6E0BF1A1C11",
+              "encoded_id": "fBy24L8aHBE",
+              "name": "sceNpManagerIntReauthenticate"
             },
             {
               "id": 4442749904761233152,
@@ -6174,6 +6210,12 @@
               "hex_id": "9C6F87341C10E2CC",
               "encoded_id": "nG+HNBwQ4sw",
               "name": "sceShellCoreUtilGetSocialScreenStatus"
+            },
+            {
+              "id": 13166716807914727494,
+              "hex_id": "B6B9932D31EC2846",
+              "encoded_id": "trmTLTHsKEY",
+              "name": "sceShellCoreUtilGetSpartacusEnabledForKratos"
             },
             {
               "id": 6376691224167977981,
@@ -7451,6 +7493,12 @@
               "hex_id": "2E08B90387D0C077",
               "encoded_id": "Lgi5A4fQwHc",
               "name": "sceUserServiceGetIsRemotePlayAllowed"
+            },
+            {
+              "id": 2476993751835476882,
+              "hex_id": "22600CB191040392",
+              "encoded_id": "ImAMsZEEA5I",
+              "name": "sceUserServiceGetIsSpartacusEnabled"
             },
             {
               "id": 13544367334203801605,

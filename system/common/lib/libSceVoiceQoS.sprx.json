@@ -134,6 +134,12 @@
               "hex_id": "4A9C4BADAB6B3B54",
               "encoded_id": "SpxLratrO1Q",
               "name": "sceVoiceQoSWritePacket"
+            },
+            {
+              "id": 4827276395073251971,
+              "hex_id": "42FDEE4E28F82A83",
+              "encoded_id": "Qv3uTij4KoM",
+              "name": null
             }
           ]
         }
@@ -268,6 +274,12 @@
               "hex_id": "6FB90923E9F1DA18",
               "encoded_id": "b7kJI+nx2hg",
               "name": "sceVoiceDeletePort"
+            },
+            {
+              "id": 6564797764154895787,
+              "hex_id": "5B1AD8C8E2BB2DAB",
+              "encoded_id": "WxrYyOK7Las",
+              "name": "sceVoiceDeviceInCustomerData"
             },
             {
               "id": 7653132942653700718,

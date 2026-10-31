@@ -703,6 +703,12 @@
               "name": "strnlen"
             },
             {
+              "id": 17807468441440187541,
+              "hex_id": "F720D63311057495",
+              "encoded_id": "9yDWMxEFdJU",
+              "name": "strrchr"
+            },
+            {
               "id": 13887207423665328580,
               "hex_id": "C0B9459301BD51C4",
               "encoded_id": "wLlFkwG9UcQ",

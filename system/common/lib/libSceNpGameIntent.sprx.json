@@ -67,6 +67,12 @@
               "name": "sceNpGameIntentLaunchApp2"
             },
             {
+              "id": 16292033271832114214,
+              "hex_id": "E218EDF11C65F426",
+              "encoded_id": "4hjt8Rxl9CY",
+              "name": "sceNpGameIntentLaunchAppForPinvoke"
+            },
+            {
               "id": 11714263883256384632,
               "hex_id": "A2916CEFDEAF4C78",
               "encoded_id": "opFs796vTHg",

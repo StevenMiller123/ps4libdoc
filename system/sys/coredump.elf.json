@@ -1055,6 +1055,18 @@
               "name": "sceDebugReadThreadRegisterForSDBGP"
             },
             {
+              "id": 208131439697470755,
+              "hex_id": "02E36E7111C22523",
+              "encoded_id": "AuNucRHCJSM",
+              "name": null
+            },
+            {
+              "id": 3035397587258750038,
+              "hex_id": "2A1FE605FCA2B456",
+              "encoded_id": "Kh-mBfyitFY",
+              "name": null
+            },
+            {
               "id": 11590325880829777421,
               "hex_id": "A0D91BFAFDE0160D",
               "encoded_id": "oNkb+v3gFg0",

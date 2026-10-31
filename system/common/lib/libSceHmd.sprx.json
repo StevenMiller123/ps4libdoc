@@ -971,6 +971,12 @@
               "name": "sceHmdReprojectionUnsetDisplayBuffers"
             },
             {
+              "id": 8977179709314283219,
+              "hex_id": "7C955961EA85B6D3",
+              "encoded_id": "fJVZYeqFttM",
+              "name": "sceHmdSetVr2dEnable"
+            },
+            {
               "id": 14984685563621141201,
               "hex_id": "CFF44C20BA8FEAD1",
               "encoded_id": "z-RMILqP6tE",
@@ -1010,12 +1016,6 @@
               "id": 8724986244528827752,
               "hex_id": "791560C32F4F6D68",
               "encoded_id": "eRVgwy9PbWg",
-              "name": null
-            },
-            {
-              "id": 8977179709314283219,
-              "hex_id": "7C955961EA85B6D3",
-              "encoded_id": "fJVZYeqFttM",
               "name": null
             },
             {

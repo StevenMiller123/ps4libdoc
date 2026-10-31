@@ -32,28 +32,28 @@
               "name": "_Z5dummyv"
             },
             {
-              "id": 11874962545577251199,
-              "hex_id": "A4CC5784DA33517F",
-              "encoded_id": "pMxXhNozUX8",
-              "name": null
-            },
-            {
-              "id": 11891711168767827143,
-              "hex_id": "A507D84D91F39CC7",
-              "encoded_id": "pQfYTZHznMc",
-              "name": null
-            },
-            {
               "id": 17018057250242139177,
               "hex_id": "EC2C48E74FF19429",
               "encoded_id": "7CxI50-xlCk",
-              "name": null
+              "name": "sceNpEAAccessInitialize"
+            },
+            {
+              "id": 11874962545577251199,
+              "hex_id": "A4CC5784DA33517F",
+              "encoded_id": "pMxXhNozUX8",
+              "name": "sceNpEAAccessTerminate"
             },
             {
               "id": 17936108139657189187,
               "hex_id": "F8E9DB52CD425743",
               "encoded_id": "+OnbUs1CV0M",
-              "name": null
+              "name": "sceNpHasEAAccessSubscription"
+            },
+            {
+              "id": 11891711168767827143,
+              "hex_id": "A507D84D91F39CC7",
+              "encoded_id": "pQfYTZHznMc",
+              "name": "sceNpHasEAAccessSubscriptionAbortRequest"
             }
           ]
         }

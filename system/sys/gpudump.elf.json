@@ -222,6 +222,13 @@
               "name": "_init_env"
             },
             {
+              "id": 2287874432227194072,
+              "hex_id": "1FC029ACA799B4D8",
+              "encoded_id": "H8AprKeZtNg",
+              "type": "Object",
+              "name": "_Stderr"
+            },
+            {
               "id": 14868568335454751040,
               "hex_id": "CE57C41FC166C940",
               "encoded_id": "zlfEH8FmyUA",
@@ -294,10 +301,22 @@
               "name": "exit"
             },
             {
+              "id": 9076987528548799568,
+              "hex_id": "7DF7F010B5CD5450",
+              "encoded_id": "fffwELXNVFA",
+              "name": "fprintf"
+            },
+            {
               "id": 13008767002086125649,
               "hex_id": "B4886CAA3D2AB051",
               "encoded_id": "tIhsqj0qsFE",
               "name": "free"
+            },
+            {
+              "id": 3646896666160666298,
+              "hex_id": "329C61321F1016BA",
+              "encoded_id": "MpxhMh8QFro",
+              "name": "fwrite"
             },
             {
               "id": 9297117245426667155,

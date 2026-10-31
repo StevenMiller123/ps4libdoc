@@ -1389,6 +1389,12 @@
               "name": "scePadGetInfo"
             },
             {
+              "id": 5901145687975812261,
+              "hex_id": "51E514BCD3A05CA5",
+              "encoded_id": "UeUUvNOgXKU",
+              "name": "scePadIsChargingCableConnected"
+            },
+            {
               "id": 17721236517531477805,
               "hex_id": "F5EE7AB8B824E72D",
               "encoded_id": "9e56uLgk5y0",
@@ -1429,12 +1435,6 @@
               "hex_id": "FFF8EB6384877E6F",
               "encoded_id": "--jrY4SHfm8",
               "name": "scePadSetVrTrackingMode"
-            },
-            {
-              "id": 5901145687975812261,
-              "hex_id": "51E514BCD3A05CA5",
-              "encoded_id": "UeUUvNOgXKU",
-              "name": null
             }
           ]
         }

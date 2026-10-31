@@ -1496,6 +1496,12 @@
               "name": "fwrite"
             },
             {
+              "id": 12855191684865155219,
+              "hex_id": "B266D0BA47F16093",
+              "encoded_id": "smbQukfxYJM",
+              "name": "getenv"
+            },
+            {
               "id": 15449488844140847968,
               "hex_id": "D6679C3FB4602360",
               "encoded_id": "1mecP7RgI2A",

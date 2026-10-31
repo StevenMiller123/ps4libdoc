@@ -343,6 +343,32 @@
               "name": "sceImeVshUpdateContext2"
             }
           ]
+        },
+        {
+          "name": "libSceImeGroupParagraphConversionExtensions",
+          "version": 1,
+          "is_export": true,
+          "symbols": [
+            {
+              "id": 5020459769213596475,
+              "hex_id": "45AC418F811DB33B",
+              "encoded_id": "RaxBj4Edszs",
+              "name": "sceImeSetGroupParagraphConversionEnabled"
+            }
+          ]
+        },
+        {
+          "name": "libSceImeRemotePlayExtensions",
+          "version": 1,
+          "is_export": true,
+          "symbols": [
+            {
+              "id": 565383139772797845,
+              "hex_id": "07D8A4F858271395",
+              "encoded_id": "B9ik+FgnE5U",
+              "name": "sceImeSetEditEventWithRemotePlayEnabled"
+            }
+          ]
         }
       ]
     },

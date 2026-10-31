@@ -335,6 +335,12 @@
               "name": "png_set_strip_16"
             },
             {
+              "id": 15096372830692406670,
+              "hex_id": "D181171B0247758E",
+              "encoded_id": "0YEXGwJHdY4",
+              "name": "png_set_swap"
+            },
+            {
               "id": 3856227504185386949,
               "hex_id": "3584127BE00FA7C5",
               "encoded_id": "NYQSe+APp8U",
@@ -551,6 +557,12 @@
               "name": "memcpy"
             },
             {
+              "id": 17941924494238559728,
+              "hex_id": "F8FE854461F82DF0",
+              "encoded_id": "+P6FRGH4LfA",
+              "name": "memmove"
+            },
+            {
               "id": 17524849461551964383,
               "hex_id": "F334C5BC120020DF",
               "encoded_id": "8zTFvBIAIN8",
@@ -568,6 +580,12 @@
               "encoded_id": "ZT4ODD2Ts9o",
               "type": "Object",
               "name": "Need_sceLibcInternal"
+            },
+            {
+              "id": 8166333405883286967,
+              "hex_id": "7154A4F72F1445B7",
+              "encoded_id": "cVSk9y8URbc",
+              "name": "posix_memalign"
             },
             {
               "id": 17631772472041858455,

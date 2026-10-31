@@ -88,9 +88,28 @@
               "name": null
             },
             {
+              "id": 475866715659752106,
+              "hex_id": "069A9E41B354D2AA",
+              "encoded_id": "BpqeQbNU0qo",
+              "name": null
+            },
+            {
+              "id": 539720296913916840,
+              "hex_id": "077D78C01F9F53A8",
+              "encoded_id": "B314wB+fU6g",
+              "name": null
+            },
+            {
               "id": 753265216504669635,
               "hex_id": "0A7422B9336B25C3",
               "encoded_id": "CnQiuTNrJcM",
+              "name": null
+            },
+            {
+              "id": 1274234370322663607,
+              "hex_id": "11AEFD689BAD08B7",
+              "encoded_id": "Ea79aJutCLc",
+              "type": "Object",
               "name": null
             },
             {
@@ -130,9 +149,21 @@
               "name": null
             },
             {
+              "id": 2855379653902787907,
+              "hex_id": "27A058AAB1C0E543",
+              "encoded_id": "J6BYqrHA5UM",
+              "name": null
+            },
+            {
               "id": 2975730228452984058,
               "hex_id": "294BEAE06E5504FA",
               "encoded_id": "KUvq4G5VBPo",
+              "name": null
+            },
+            {
+              "id": 3172549818057448194,
+              "hex_id": "2C072940298B5B02",
+              "encoded_id": "LAcpQCmLWwI",
               "name": null
             },
             {
@@ -250,6 +281,12 @@
               "name": null
             },
             {
+              "id": 9377102532711085176,
+              "hex_id": "822229124CA8F478",
+              "encoded_id": "giIpEkyo9Hg",
+              "name": null
+            },
+            {
               "id": 9528991764175059740,
               "hex_id": "843DC785D346FB1C",
               "encoded_id": "hD3HhdNG+xw",
@@ -268,9 +305,21 @@
               "name": null
             },
             {
+              "id": 10196572407626632716,
+              "hex_id": "8D818094BB228E0C",
+              "encoded_id": "jYGAlLsijgw",
+              "name": null
+            },
+            {
               "id": 10506407360612946686,
               "hex_id": "91CE41D442E252FE",
               "encoded_id": "kc5B1ELiUv4",
+              "name": null
+            },
+            {
+              "id": 10619375582366346626,
+              "hex_id": "935F99D40B672D82",
+              "encoded_id": "k1+Z1AtnLYI",
               "name": null
             },
             {
@@ -283,6 +332,31 @@
               "id": 11390368189395709814,
               "hex_id": "9E12B784FDD72F76",
               "encoded_id": "nhK3hP3XL3Y",
+              "name": null
+            },
+            {
+              "id": 11679066206114487132,
+              "hex_id": "A21460D60BB91B5C",
+              "encoded_id": "ohRg1gu5G1w",
+              "name": null
+            },
+            {
+              "id": 11906563186392656078,
+              "hex_id": "A53C9C2264AD68CE",
+              "encoded_id": "pTycImStaM4",
+              "name": null
+            },
+            {
+              "id": 12621718014353288767,
+              "hex_id": "AF2959A94CAD2E3F",
+              "encoded_id": "rylZqUytLj8",
+              "name": null
+            },
+            {
+              "id": 12657970921078686485,
+              "hex_id": "AFAA257CE81E8315",
+              "encoded_id": "r6olfOgegxU",
+              "type": "Object",
               "name": null
             },
             {
@@ -373,6 +447,13 @@
               "id": 17800525793288963880,
               "hex_id": "F7082BE5D42AC728",
               "encoded_id": "9wgr5dQqxyg",
+              "name": null
+            },
+            {
+              "id": 17909480078680519587,
+              "hex_id": "F88B413E39AFF3A3",
+              "encoded_id": "+ItBPjmv86M",
+              "type": "Object",
               "name": null
             },
             {
@@ -587,6 +668,12 @@
               "hex_id": "B67DD5943D211BAD",
               "encoded_id": "tn3VlD0hG60",
               "name": "scePthreadMutexUnlock"
+            },
+            {
+              "id": 3607587661212454224,
+              "hex_id": "3210B9DD32A68D50",
+              "encoded_id": "MhC53TKmjVA",
+              "name": "sysctlbyname"
             }
           ]
         }
@@ -680,6 +767,12 @@
               "hex_id": "437541C425E1507B",
               "encoded_id": "Q3VBxCXhUHs",
               "name": "memcpy"
+            },
+            {
+              "id": 17941924494238559728,
+              "hex_id": "F8FE854461F82DF0",
+              "encoded_id": "+P6FRGH4LfA",
+              "name": "memmove"
             },
             {
               "id": 17524849461551964383,

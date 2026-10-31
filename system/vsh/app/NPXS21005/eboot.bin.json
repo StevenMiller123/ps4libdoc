@@ -1655,6 +1655,12 @@
               "name": "strnlen"
             },
             {
+              "id": 17807468441440187541,
+              "hex_id": "F720D63311057495",
+              "encoded_id": "9yDWMxEFdJU",
+              "name": "strrchr"
+            },
+            {
               "id": 11058995181982134520,
               "hex_id": "9979718662CD30F8",
               "encoded_id": "mXlxhmLNMPg",
@@ -2395,6 +2401,12 @@
           "version": 1,
           "is_export": false,
           "symbols": [
+            {
+              "id": 2476993751835476882,
+              "hex_id": "22600CB191040392",
+              "encoded_id": "ImAMsZEEA5I",
+              "name": "sceUserServiceGetIsSpartacusEnabled"
+            },
             {
               "id": 9005073454829874160,
               "hex_id": "7CF87298A36F2BF0",

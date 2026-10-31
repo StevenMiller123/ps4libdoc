@@ -6304,6 +6304,18 @@
               "name": "_ZNSt14_Num_ldbl_base9is_signedE"
             },
             {
+              "id": 16728350958506734589,
+              "hex_id": "E8270A90EFDBF3FD",
+              "encoded_id": "6CcKkO-b8-0",
+              "name": "_ZNSt14error_categoryD0Ev"
+            },
+            {
+              "id": 9141823208053568346,
+              "hex_id": "7EDE47C5B374735A",
+              "encoded_id": "ft5HxbN0c1o",
+              "name": "_ZNSt14error_categoryD1Ev"
+            },
+            {
               "id": 9494275129247965129,
               "hex_id": "83C270ED5EA69FC9",
               "encoded_id": "g8Jw7V6mn8k",
